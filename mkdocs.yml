@@ -7,6 +7,9 @@ pages:
 # Introduction:
 - ['index.md', 'Home', 'Enron Data']
 
+## Data:
+- ['data/custodians-names-and-titles.md', 'Data', 'Custodian Names and Titles']
+
 ## References:
 - ['references/data.md', 'References', 'Data']
 - ['references/research.md', 'References', 'Research']
