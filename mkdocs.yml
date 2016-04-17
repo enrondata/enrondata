@@ -5,10 +5,12 @@ docs_dir: docs
 theme: readthedocs
 pages:
 # Introduction:
-- ['index.md', 'Home', 'Enron Data']
+- ['index.md', 'Introduction', 'Home']
+- ['introduction.md', 'Introduction', 'Introduciton']
 
 ## Data:
 - ['data/enron-email-datasets.md', 'Data', 'Enron Email Datasets']
+- ['data/ferc-enron-email-dataset.md', 'Data', 'FERC Enron Email Dataset']
 - ['data/custodian-names-and-titles.md', 'Data', 'Custodian Names and Titles']
 - ['data/cal-anlp-calo-mapping.md', 'Data', 'Cal ANLP to CALO Mapping']
 
