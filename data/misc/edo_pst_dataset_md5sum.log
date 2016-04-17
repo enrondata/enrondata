@@ -1,6 +1,4 @@
-$ md5sum *.7z
 06de91a8a17264713fd617303ea659a7  EnronDataOrg_AED_Mailbox-PSTs_20090122.7z
-$ md5sum *.pst
 03d7cdd2d4412ac7483692821583c84c  allen-p.pst
 ae286ad1c094508ea344ba6365e344c3  arnold-j.pst
 0076dc34de12f92869520c4ec2f695e3  arora-h.pst
@@ -149,5 +147,3 @@ b5498ba489968c7ca657d35057aaee08  wolfe-j.pst
 5698fab7accf31624f7436bc71dac86e  ybarbo-p.pst
 4f03345c23e3a450a5f01899f9440941  zipper-a.pst
 fe2056606ee8efae5a313e37d646ea1c  zufferli-j.pst
-$ 
-
