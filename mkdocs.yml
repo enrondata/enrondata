@@ -10,6 +10,9 @@ pages:
 ## Data:
 - ['data/custodians-names-and-titles.md', 'Data', 'Custodian Names and Titles']
 
+## Processing:
+- ['data/deduplication-and-attachment-stripping.md', 'Processing', 'Deduplication and Attachment Stripping']
+
 ## References:
 - ['references/data.md', 'References', 'Data']
 - ['references/research.md', 'References', 'Research']
