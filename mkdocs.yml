@@ -1,0 +1,17 @@
+site_name: RingCentral SDK for Ruby
+site_url: https://github.com/grokify/ringcentral-sdk-ruby
+repo_url: https://github.com/grokify/ringcentral-sdk-ruby.git
+docs_dir: docs
+theme: readthedocs
+pages:
+# Introduction:
+- ['index.md', 'Home', 'Enron Data']
+
+## References:
+- ['references/data.md', 'Data', 'Data']
+- ['references/projects.md', 'Projects', 'Projects']
+- ['references/research.md', 'Research', 'Research']
+- ['references/enron.md', 'Enron', 'Enron']
+
+## About
+- ['about.md', 'About', 'About']
