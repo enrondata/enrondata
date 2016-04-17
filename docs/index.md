@@ -12,7 +12,7 @@ EnronData.org offers a collection of 148 PSTs by custodian with folder-structure
 
 Free - 734MB 7z format - [More Information](http://enrondata.readthedocs.org/en/latest/data/edo-enron-email-pst-dataset/)
 
-Note: If you are having difficulty downloading this file, try using the wxDFast open source download manager (free).
+Note: If you are having difficulty downloading this file, try using the [wxDFast](http://dfast.sourceforge.net/) open source download manager (free).
 
 ## Compression
 
