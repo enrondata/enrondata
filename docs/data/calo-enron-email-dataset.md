@@ -1,6 +1,6 @@
 # CALO Enron Email Dataset
 
-The CALO dataset is perhaps the most widely used data set and is available for download at [http://www.cs.cmu.edu/~enron/](http://www.cs.cmu.edu/~enron/). This dataset is a derivative of the FERC dataset and has been referenced in many email research studies and is also used by many commercial E-Discovery organizations. The CMU page describes this dataset as follows:
+The [Carnegie Mello University (CMU)](http://www.cmu.edu/) [CALO Project](http://www.ai.sri.com/project/CALO) dataset is perhaps the most widely used data set and is available for download at [http://www.cs.cmu.edu/~enron/](http://www.cs.cmu.edu/~enron/). This dataset is a derivative of the FERC dataset and has been referenced in many email research studies and is also used by many commercial E-Discovery organizations. The CMU page describes this dataset as follows:
 
 1. This dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes).
 2. It contains data from [150 custodians](https://github.com/enrondata/enrondata/blob/master/data/misc/edrp_calo-enron_maildir-users.txt), mostly senior management of Enron, organized into folders.
@@ -20,6 +20,6 @@ In addition to the above, the CALO dataset has a number of optimizations:
 2. Date: Dates have been canonicalized replacing the raw dates
 3. Headers: Some other headers are missing from the email
 
-Removing the attachments makes the dataset much more manageable in size. [Mark Dredze](http://www.cs.jhu.edu/~mdredze/) has created a version of the CALO dataset with attachment information brought over from the FERC dataset.
+Removing the attachments makes the dataset much more manageable in size. However, attachments are still useful for certain investigations and [Mark Dredze](http://www.cs.jhu.edu/~mdredze/) has created a version of the CALO dataset with attachment information brought over from the FERC dataset.
 
 K. Krasnow Waterman discusses how these changes affect the email in [Knowledge Discovery in Corporate Email: The Compliance Bot Meets Enron](https://dspace.mit.edu/handle/1721.1/37574), 2006.
