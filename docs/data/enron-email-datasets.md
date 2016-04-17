@@ -7,7 +7,7 @@ A lot of work has already been formed on the Enron Email Dataset. K. Krasnow Wat
 | FERC / Aspen | 1,000,000+ | 158 |
 | CALO | 517,431 | 151 |
 | USC | 252,759 | 161 |
-| CMU | Intermedate	619,446 | 158 |
+| CMU Intermedate | 619,446 | 158 |
 | CMU | 200,399 | 158 |
 | UMass | ? | 149 |
 | Queens University | ? | ? |
