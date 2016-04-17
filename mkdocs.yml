@@ -1,6 +1,6 @@
-site_name: RingCentral SDK for Ruby
-site_url: https://github.com/grokify/ringcentral-sdk-ruby
-repo_url: https://github.com/grokify/ringcentral-sdk-ruby.git
+site_name: EnronData
+site_url: https://github.com/enrondata/enrondata
+repo_url: https://github.com/enrondata/enrondata.git
 docs_dir: docs
 theme: readthedocs
 pages:
