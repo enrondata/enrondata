@@ -9,7 +9,7 @@ A number of research studies reference the Enron Email Dataset and are listed he
 2. Annotation
   1. Ulrich, Jan, Gabriel Murray, and Giuseppe Carenini. [A Publicly Available Annotated Corpus for Supervised Email Summarization]("http://cs.ubc.ca/~ulrichj/papers/ulrich-aaai08.pdf). AAAI-2008 EMAIL Workshop, Chicago, Jul 2008. &#8211; W3C Corpus focus.
 3. Attachments
-  1. Dredze, Mark and John Blitzer, Fernando Pereira. ["Sorry, I Forgot the Attachment:"; Email Attachment Prediction]()http://www.cis.upenn.edu/~mdredze/publications/attachment_ceas06.pdf. *CEAS*, 2006.
+  1. Dredze, Mark and John Blitzer, Fernando Pereira. ["Sorry, I Forgot the Attachment:"; Email Attachment Prediction](http://www.cis.upenn.edu/~mdredze/publications/attachment_ceas06.pdf). *CEAS*, 2006.
 4. Classification
   1. Bekkerman, Ron, Andrew McCallum, Gary Huang. [Automatic Categorization of Email into Folders: Benchmark Experiments on Enron and SRI Corpora](http://www.cs.umass.edu/~ronb/papers/email.pdf). *[CIIR](http://ciir.cs.umass.edu/) Technical Report IR-418 2004* (Amherst, MA. 2005).
 5. Datasets
