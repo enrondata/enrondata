@@ -8,6 +8,6 @@ EDRM data sets include:
 
 1. Currently available
   * [EDRM Enron v1 Data Set Cleansed of Private, Health and Financial Information](http://www.edrm.net/resources/data-sets/edrm-enron-email-data-set)
-2. No longer avialable
+2. No longer available
   * EDRM Enron v1 Data Set
   * [EDRM Enron v2 Data Set](http://www.edrm.net/archives/8742). This data set was used by the [TREC Legal Track](http://trec-legal.umiacs.umd.edu/)
