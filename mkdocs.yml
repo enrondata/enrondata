@@ -14,7 +14,7 @@ pages:
 - ['data/ferc-enron-email-dataset.md', 'Data', 'FERC Enron Email Dataset']
 - ['data/calo-enron-email-dataset.md', 'Data', 'CALO Enron Email Dataset']
 - ['data/edo-enron-email-pst-dataset.md', 'Data', 'EDO Enron Email PST Dataset']
-- ['data/edrm-enron-email-pst-datasets.md', 'Data', 'EDRM Enron Email PST Datasets']
+- ['data/edrm-enron-email-datasets.md', 'Data', 'EDRM Enron Email PST Datasets']
 - ['data/custodian-names-and-titles.md', 'Data', 'Custodian Names and Titles']
 - ['data/cal-anlp-calo-mapping.md', 'Data', 'Cal ANLP to CALO Mapping']
 
