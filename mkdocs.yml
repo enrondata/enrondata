@@ -8,6 +8,7 @@ pages:
 - ['index.md', 'Home', 'Enron Data']
 
 ## Data:
+- ['data/enron-email-datasets.md', 'Data', 'Enron Email Datasets']
 - ['data/custodian-names-and-titles.md', 'Data', 'Custodian Names and Titles']
 - ['data/cal-anlp-calo-mapping.md', 'Data', 'Cal ANLP to CALO Mapping']
 
