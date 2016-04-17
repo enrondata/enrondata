@@ -9,6 +9,7 @@ pages:
 
 ## Data:
 - ['data/custodian-names-and-titles.md', 'Data', 'Custodian Names and Titles']
+- ['data/cal-anlp-calo-mapping.md', 'Data', 'Cal ANLP to CALO Mapping']
 
 ## Processing:
 - ['data/deduplication-and-attachment-stripping.md', 'Processing', 'Deduplication and Attachment Stripping']
