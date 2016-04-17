@@ -13,8 +13,10 @@
 ## Other organizations
 
 1. [CALO Dataset by Melinda Gervasio and others](http://www.cs.cmu.edu/~enron/)
+  1. [CALO Dataset formatted for MongoDB](http://mongodb-enron-email.s3-website-us-east-1.amazonaws.com/)
+  3. [CALO Dataset in PST format by PeteSearch](http://petewarden.typepad.com/searchbrowser/2008/03/how-to-conver-1.html) by [Pete Warden](http://petewarden.typepad.com/)
 2. [FERC Dataset](http://www.ferc.gov/industries/electric/indus-act/wec/enron/info-release.asp)
-3. [PeteSearch Dataset](http://petewarden.typepad.com/searchbrowser/2008/03/how-to-conver-1.html) by [Pete Warden](http://petewarden.typepad.com/)
+3. [EDRM Dataset](http://www.edrm.net/resources/data-sets/edrm-enron-email-data-set)
 4. [Queen&#8217;s University Datasets by Nikhil Vats](http://research.cs.queensu.ca/~skill/otherforms.html)
 5. [UC Berkeley Datasets](http://bailando.sims.berkeley.edu/enron_email.html)
 6. [UMass Datasets](http://www.cs.umass.edu/~ronb/enron_dataset.html) by [Ron Bekkerman](http://www.cs.umass.edu/~ronb/)
