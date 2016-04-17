@@ -8,7 +8,7 @@ pages:
 - ['index.md', 'Home', 'Enron Data']
 
 ## Data:
-- ['data/custodians-names-and-titles.md', 'Data', 'Custodian Names and Titles']
+- ['data/custodian-names-and-titles.md', 'Data', 'Custodian Names and Titles']
 
 ## Processing:
 - ['data/deduplication-and-attachment-stripping.md', 'Processing', 'Deduplication and Attachment Stripping']
