@@ -4,6 +4,8 @@
 
 EnronData.org is a project to collect information on the Enron data sets released by the [Federal Energy Regulatory Commission (FERC)](http://www.ferc.gov/).
 
+Please go to [https://enrondata.readthedocs.org](https://enrondata.readthedocs.org) to view the contents of this site.
+
 This repo covers documentation for the project.
 
  [docs-readthedocs-svg]: https://img.shields.io/badge/docs-readthedocs-blue.svg
