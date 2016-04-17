@@ -8,5 +8,9 @@ Please go to [https://enrondata.readthedocs.org](https://enrondata.readthedocs.o
 
 This repo covers documentation for the project.
 
+Version 1 of the EnronData.org website:
+
+![EnronData.org v1](https://raw.githubusercontent.com/enrondata/enrondata/master/data/images/enrondata.org_homepage_v1.png)
+
  [docs-readthedocs-svg]: https://img.shields.io/badge/docs-readthedocs-blue.svg
  [docs-readthedocs-link]: http://enrondata.readthedocs.org/
