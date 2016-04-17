@@ -8,9 +8,9 @@ pages:
 - ['index.md', 'Home', 'Enron Data']
 
 ## References:
-- ['references/data.md', 'Data', 'Data']
-- ['references/research.md', 'Research', 'Research']
-- ['references/enron.md', 'Enron', 'Enron']
+- ['references/data.md', 'References', 'Data']
+- ['references/research.md', 'References', 'Research']
+- ['references/enron.md', 'References', 'Enron']
 
 ## About
 - ['about.md', 'About', 'About']
