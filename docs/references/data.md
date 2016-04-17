@@ -6,9 +6,9 @@
 
 ## EnronData.org Data
 
-1. [CALO &#8211; UCB-ANLP Mapping File](https://github.com/enrondata/enrondata/blob/master/files/misc/edrp_calo-ucb-anlp-map.txt)
-2. [EDO, CALO, and FERC Custodian List](https://github.com/enrondata/enrondata/blob/master/files/misc/edo_enron-custodians.txt)
-3. [EDO / ISI Custodian Information](https://github.com/enrondata/enrondata/blob/master/files/misc/edo_enron-custodians-data.html)
+1. [CALO &#8211; UCB-ANLP Mapping File](https://github.com/enrondata/enrondata/blob/master/data/misc/edrp_calo-ucb-anlp-map.txt)
+2. [EDO, CALO, and FERC Custodian List](https://github.com/enrondata/enrondata/blob/master/data/misc/edo_enron-custodians.txt)
+3. [EDO / ISI Custodian Information](https://github.com/enrondata/enrondata/blob/master/data/misc/edo_enron-custodians-data.html)
 
 ## Other organizations
 
