@@ -17,7 +17,7 @@
 3. [PeteSearch Dataset](http://petewarden.typepad.com/searchbrowser/2008/03/how-to-conver-1.html) by [Pete Warden](http://petewarden.typepad.com/)
 4. [Queen&#8217;s University Datasets by Nikhil Vats](http://research.cs.queensu.ca/~skill/otherforms.html)
 5. [UC Berkeley Datasets](http://bailando.sims.berkeley.edu/enron_email.html)
-6. [UMass Datasets](http://www.cs.umass.edu/~ronb/enron_dataset.html) by [Ron Bekkerman](http://www.cs.umass.edu/~ronb/
+6. [UMass Datasets](http://www.cs.umass.edu/~ronb/enron_dataset.html) by [Ron Bekkerman](http://www.cs.umass.edu/~ronb/)
 7. [UMass Dataset Mappings](http://ciir.cs.umass.edu/~corrada/enron/) by [Andrés Corrada-Emmanue](http://ciir.cs.umass.edu/~corrada/)
 8. [UPenn 2001 Topic Annotated Enron Email Data Set](http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2007T22)
 9. [USC Dataset by Jitesh Shetty and Jafar Adibi](http://www.isi.edu/~adibi/Enron/Enron.htm)
