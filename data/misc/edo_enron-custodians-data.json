@@ -1,0 +1,1861 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "allen-p",
+    "givenName": "Philip",
+    "familyName": "Allen",
+    "email": "philip.allen@enron.com",
+    "name": "Philip Allen",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "arnold-j",
+    "givenName": "John",
+    "familyName": "Arnold",
+    "email": "john.arnold@enron.com",
+    "name": "John Arnold",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "arora-h",
+    "givenName": "Harpreet",
+    "familyName": "Arora",
+    "email": "harpreet.arora@enron.com",
+    "name": "Harpreet Arora",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "badeer-r",
+    "givenName": "Robert",
+    "familyName": "Badeer",
+    "email": "robert.badeer@enron.com",
+    "name": "Robert Badeer",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "bailey-s",
+    "givenName": "Susan",
+    "familyName": "Bailey",
+    "email": "susan.bailey@enron.com",
+    "name": "Susan Bailey",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "bass-e",
+    "givenName": "Eric",
+    "familyName": "Bass",
+    "email": "eric.bass@enron.com",
+    "name": "Eric Bass",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "baughman-d",
+    "givenName": "Don",
+    "familyName": "Baughman",
+    "email": "don.baughman@enron.com",
+    "name": "Don Baughman",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "beck-s",
+    "givenName": "Sally",
+    "familyName": "Beck",
+    "email": "sally.beck@enron.com",
+    "name": "Sally Beck",
+    "jobTitle": "Chief Operating Officer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "benson-r",
+    "givenName": "Robert",
+    "familyName": "Benson",
+    "email": "robert.benson@enron.com",
+    "name": "Robert Benson",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "blair-l",
+    "givenName": "Lynn",
+    "familyName": "Blair",
+    "email": "lynn.blair@enron.com",
+    "name": "Lynn Blair",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "brawner-s",
+    "givenName": "Sandra",
+    "familyName": "Brawner",
+    "email": "sandra.brawner@enron.com",
+    "name": "Sandra Brawner",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "buy-r",
+    "givenName": "Rick",
+    "familyName": "Buy",
+    "email": "rick.buy@enron.com",
+    "name": "Rick Buy",
+    "jobTitle": "Manager, Chief Risk Management Officer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "campbell-l",
+    "givenName": "Larry",
+    "familyName": "Campbell",
+    "email": "larry.campbell@enron.com",
+    "name": "Larry Campbell",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "carson-m",
+    "givenName": "Mike",
+    "familyName": "Carson",
+    "email": "mike.carson@enron.com",
+    "name": "Mike Carson",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "cash-m",
+    "givenName": "Michelle",
+    "familyName": "Cash",
+    "email": "michelle.cash@enron.com",
+    "name": "Michelle Cash",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "causholli-m",
+    "givenName": "Monika",
+    "familyName": "Causholli",
+    "email": "monika.causholli@enron.com",
+    "name": "Monika Causholli",
+    "jobTitle": "Analyst Risk Management",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "corman-s",
+    "givenName": "Shelley",
+    "familyName": "Corman",
+    "email": "shelley.corman@enron.com",
+    "name": "Shelley Corman",
+    "jobTitle": "Vice President, Regulatory Affairs",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "crandall-s",
+    "givenName": "Sean",
+    "familyName": "Crandall",
+    "email": "sean.crandall@enron.com",
+    "name": "Sean Crandall",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "cuilla-m",
+    "givenName": "Martin",
+    "familyName": "Cuilla",
+    "email": "martin.cuilla@enron.com",
+    "name": "Martin Cuilla",
+    "jobTitle": "Manager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "dasovich-j",
+    "givenName": "Jeff",
+    "familyName": "Dasovich",
+    "email": "jeff.dasovich@enron.com",
+    "name": "Jeff Dasovich",
+    "jobTitle": "Government Relation Executive",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "davis-d",
+    "givenName": "Dana",
+    "familyName": "Davis",
+    "email": "dana.davis@enron.com",
+    "name": "Dana Davis",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "dean-c",
+    "givenName": "Craig",
+    "familyName": "Dean",
+    "email": "craig.dean@enron.com",
+    "name": "Craig Dean",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "delainey-d",
+    "givenName": "David",
+    "familyName": "Delainey",
+    "email": "david.delainey@enron.com",
+    "name": "David Delainey",
+    "jobTitle": "CEO, Enron North America and Enron Enery Services",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "derrick-j",
+    "givenName": "James",
+    "familyName": "Derrick",
+    "email": "james.derrick@enron.com",
+    "name": "James Derrick",
+    "jobTitle": "General Counsel",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "dickson-s",
+    "givenName": "Stacy",
+    "familyName": "Dickson",
+    "email": "stacy.dickson@enron.com",
+    "name": "Stacy Dickson",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "donoho-l",
+    "givenName": "Lindy",
+    "familyName": "Donoho",
+    "email": "lindy.donoho@enron.com",
+    "name": "Lindy Donoho",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "donohoe-t",
+    "givenName": "Tom",
+    "familyName": "Donohoe",
+    "email": "tom.donohoe@enron.com",
+    "name": "Tom Donohoe",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "dorland-c",
+    "givenName": "Chris",
+    "familyName": "Dorland",
+    "email": "chris.dorland@enron.com",
+    "name": "Chris Dorland",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "ermis-f",
+    "givenName": "Frank",
+    "familyName": "Ermis",
+    "email": "frank.ermis@enron.com",
+    "name": "Frank Ermis",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "farmer-d",
+    "givenName": "Daren",
+    "familyName": "Farmer",
+    "email": "daren.farmer@enron.com",
+    "name": "Daren Farmer",
+    "jobTitle": "Manager, Logistics Manager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "fischer-m",
+    "givenName": "Mary",
+    "familyName": "Fischer",
+    "email": "mary.fischer@enron.com",
+    "name": "Mary Fischer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "forney-j",
+    "givenName": "John",
+    "familyName": "Forney",
+    "email": "john.forney@enron.com",
+    "name": "John Forney",
+    "jobTitle": "Manager, Real time Trading Desk",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "fossum-d",
+    "givenName": "Drew",
+    "familyName": "Fossum",
+    "email": "drew.fossum@enron.com",
+    "name": "Drew Fossum",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "gang-l",
+    "givenName": "Lisa",
+    "familyName": "Gang",
+    "email": "lisa.gang@enron.com",
+    "name": "Lisa Gang",
+    "jobTitle": "Senior Specialist",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "gay-r",
+    "givenName": "Randall",
+    "familyName": "Gay",
+    "email": "randall.gay@enron.com",
+    "name": "Randall Gay",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "geaccone-t",
+    "givenName": "Tracy",
+    "familyName": "Geaccone",
+    "email": "tracy.geaccone@enron.com",
+    "name": "Tracy Geaccone",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "germany-c",
+    "givenName": "Chris",
+    "familyName": "Germany",
+    "email": "chris.germany@enron.com",
+    "name": "Chris Germany",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "gilbertsmith-d",
+    "givenName": "Douglas",
+    "familyName": "Gilberth-Smith",
+    "email": "douglas.gilberthsmith@enron.com",
+    "name": "Douglas Gilberth-Smith",
+    "jobTitle": "Manager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "giron-d",
+    "givenName": "Daron",
+    "familyName": "Giron",
+    "email": "daron.giron@enron.com",
+    "name": "Daron Giron",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "griffith-j",
+    "givenName": "John",
+    "familyName": "Giffith",
+    "email": "john.giffith@enron.com",
+    "name": "John Giffith",
+    "jobTitle": "Managing Director, MD of UK",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "grigsby-m",
+    "givenName": "Michael",
+    "familyName": "Grigsby",
+    "email": "michael.grigsby@enron.com",
+    "name": "Michael Grigsby",
+    "jobTitle": "Manager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "guzman-m",
+    "givenName": "Mark",
+    "familyName": "Guzman",
+    "email": "mark.guzman@enron.com",
+    "name": "Mark Guzman",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "haedicke-m",
+    "givenName": "Mark",
+    "familyName": "Haedicke",
+    "email": "mark.haedicke@enron.com",
+    "name": "Mark Haedicke",
+    "jobTitle": "Managing Director, Legal Department",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hain-m",
+    "givenName": "Mary",
+    "familyName": "Hain",
+    "email": "mary.hain@enron.com",
+    "name": "Mary Hain",
+    "jobTitle": "In House Lawyer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "harris-s",
+    "givenName": "Steven",
+    "familyName": "Harris",
+    "email": "steven.harris@enron.com",
+    "name": "Steven Harris",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hayslett-r",
+    "givenName": "Rod",
+    "familyName": "Hayslett",
+    "email": "rod.hayslett@enron.com",
+    "name": "Rod Hayslett",
+    "jobTitle": "Vice President, Chief Financial Officer and Treasurer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "heard-m",
+    "givenName": "Marie",
+    "familyName": "Heard",
+    "email": "marie.heard@enron.com",
+    "name": "Marie Heard",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hendrickson-s",
+    "givenName": "Scott",
+    "familyName": "Hendrickson",
+    "email": "scott.hendrickson@enron.com",
+    "name": "Scott Hendrickson",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hernandez-j",
+    "givenName": "Juan",
+    "familyName": "Hernandez",
+    "email": "juan.hernandez@enron.com",
+    "name": "Juan Hernandez",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hodge-j",
+    "givenName": "John",
+    "familyName": "Hodge",
+    "email": "john.hodge@enron.com",
+    "name": "John Hodge",
+    "jobTitle": "Managing Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "holst-k",
+    "givenName": "Keith",
+    "familyName": "Holst",
+    "email": "keith.holst@enron.com",
+    "name": "Keith Holst",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "horton-s",
+    "givenName": "Stanley",
+    "familyName": "Horton",
+    "email": "stanley.horton@enron.com",
+    "name": "Stanley Horton",
+    "jobTitle": "President, Enron Gas Pipeline",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hyatt-k",
+    "givenName": "Kevin",
+    "familyName": "Hyatt",
+    "email": "kevin.hyatt@enron.com",
+    "name": "Kevin Hyatt",
+    "jobTitle": "Director, Pipeline Business",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "hyvl-d",
+    "givenName": "Dan",
+    "familyName": "Hyvl",
+    "email": "dan.hyvl@enron.com",
+    "name": "Dan Hyvl",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "jones-t",
+    "givenName": "Tana",
+    "familyName": "Jones",
+    "email": "tana.jones@enron.com",
+    "name": "Tana Jones",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "kaminski-v",
+    "givenName": "Vince",
+    "familyName": "Kaminski",
+    "email": "vince.kaminski@enron.com",
+    "name": "Vince Kaminski",
+    "jobTitle": "Manager, Risk Management Head",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "kean-s",
+    "givenName": "Steven",
+    "familyName": "Kean",
+    "email": "steven.kean@enron.com",
+    "name": "Steven Kean",
+    "jobTitle": "Vice President, Vice President & Chief of Staff",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "keavey-p",
+    "givenName": "Peter",
+    "familyName": "Keavey",
+    "email": "peter.keavey@enron.com",
+    "name": "Peter Keavey",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "keiser-k",
+    "givenName": "Kam",
+    "familyName": "Keiser",
+    "email": "kam.keiser@enron.com",
+    "name": "Kam Keiser",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "king-j",
+    "givenName": "Jeff",
+    "familyName": "King",
+    "email": "jeff.king@enron.com",
+    "name": "Jeff King",
+    "jobTitle": "Manager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "kitchen-l",
+    "givenName": "Louise",
+    "familyName": "Kitchen",
+    "email": "louise.kitchen@enron.com",
+    "name": "Louise Kitchen",
+    "jobTitle": "President, Enron Online",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "kuykendall-t",
+    "givenName": "Tori",
+    "familyName": "Kuykendall",
+    "email": "tori.kuykendall@enron.com",
+    "name": "Tori Kuykendall",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lavorato-j",
+    "givenName": "John",
+    "familyName": "Lavorato",
+    "email": "john.lavorato@enron.com",
+    "name": "John Lavorato",
+    "jobTitle": "CEO, Enron America",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lay-k",
+    "givenName": "Kenneth",
+    "familyName": "Lay",
+    "email": "kenneth.lay@enron.com",
+    "name": "Kenneth Lay",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lenhart-m",
+    "givenName": "Matthew",
+    "familyName": "Lenhart",
+    "email": "matthew.lenhart@enron.com",
+    "name": "Matthew Lenhart",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lewis-a",
+    "givenName": "Andrew",
+    "familyName": "Lewis",
+    "email": "andrew.lewis@enron.com",
+    "name": "Andrew Lewis",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "linder-e",
+    "givenName": "Eric",
+    "familyName": "Linder",
+    "email": "eric.linder@enron.com",
+    "name": "Eric Linder",
+    "jobTitle": "Specialist",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lokay-m",
+    "givenName": "Michelle",
+    "familyName": "Lokay",
+    "email": "michelle.lokay@enron.com",
+    "name": "Michelle Lokay",
+    "jobTitle": "Administrative Asisstant",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lokey-t",
+    "givenName": "Teb",
+    "familyName": "Lokey",
+    "email": "teb.lokey@enron.com",
+    "name": "Teb Lokey",
+    "jobTitle": "Manager, Regulatory Affairs",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "love-p",
+    "givenName": "Phillip",
+    "familyName": "Love",
+    "email": "phillip.love@enron.com",
+    "name": "Phillip Love",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "lucci-p",
+    "givenName": "Paul",
+    "familyName": "Lucci",
+    "email": "paul.lucci@enron.com",
+    "name": "Paul Lucci",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "maggi-m",
+    "givenName": "Michael",
+    "familyName": "Maggi",
+    "email": "michael.maggi@enron.com",
+    "name": "Michael Maggi",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mann-k",
+    "givenName": "Kay",
+    "familyName": "Mann",
+    "email": "kay.mann@enron.com",
+    "name": "Kay Mann",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "martin-t",
+    "givenName": "Thomas",
+    "familyName": "Martin",
+    "email": "thomas.martin@enron.com",
+    "name": "Thomas Martin",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "may-l",
+    "givenName": "Lawrence",
+    "familyName": "May",
+    "email": "lawrence.may@enron.com",
+    "name": "Lawrence May",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mccarty-d",
+    "givenName": "Danny",
+    "familyName": "McCarty",
+    "email": "danny.mccarty@enron.com",
+    "name": "Danny McCarty",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mcconnell-m",
+    "givenName": "Mike",
+    "familyName": "McConnell",
+    "email": "mike.mcconnell@enron.com",
+    "name": "Mike McConnell",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mckay-b",
+    "givenName": "Bradley",
+    "familyName": "Mckay",
+    "email": "bradley.mckay@enron.com",
+    "name": "Bradley Mckay",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mckay-j",
+    "givenName": "Jonathan",
+    "familyName": "Mckay",
+    "email": "jonathan.mckay@enron.com",
+    "name": "Jonathan Mckay",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mclaughlin-e",
+    "givenName": "Errol",
+    "familyName": "McLaughlin",
+    "email": "errol.mclaughlin@enron.com",
+    "name": "Errol McLaughlin",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "merriss-s",
+    "givenName": "Steven",
+    "familyName": "Merriss",
+    "email": "steven.merriss@enron.com",
+    "name": "Steven Merriss",
+    "jobTitle": "Specialist",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "meyers-a",
+    "givenName": "Albert",
+    "familyName": "Meyers",
+    "email": "albert.meyers@enron.com",
+    "name": "Albert Meyers",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "mims-thurston-p",
+    "givenName": "Patrice",
+    "familyName": "Mims-Thurston",
+    "email": "patrice.mimsthurston@enron.com",
+    "name": "Patrice Mims-Thurston",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "motley-m",
+    "givenName": "Matthew",
+    "familyName": "Motley",
+    "email": "matthew.motley@enron.com",
+    "name": "Matthew Motley",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "neal-s",
+    "givenName": "Scott",
+    "familyName": "Neal",
+    "email": "scott.neal@enron.com",
+    "name": "Scott Neal",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "nemec-g",
+    "givenName": "Gerald",
+    "familyName": "Nemec",
+    "email": "gerald.nemec@enron.com",
+    "name": "Gerald Nemec",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "panus-s",
+    "givenName": "Stephanie",
+    "familyName": "Panus",
+    "email": "stephanie.panus@enron.com",
+    "name": "Stephanie Panus",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "parks-j",
+    "givenName": "Joe",
+    "familyName": "Parks",
+    "email": "joe.parks@enron.com",
+    "name": "Joe Parks",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "pereira-s",
+    "givenName": "Susan",
+    "familyName": "Pereira",
+    "email": "susan.pereira@enron.com",
+    "name": "Susan Pereira",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "perlingiere-d",
+    "givenName": "Debra",
+    "familyName": "Perlingiere",
+    "email": "debra.perlingiere@enron.com",
+    "name": "Debra Perlingiere",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "pimenov-v",
+    "givenName": "Vladi",
+    "familyName": "Pimenov",
+    "email": "vladi.pimenov@enron.com",
+    "name": "Vladi Pimenov",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "platter-p",
+    "givenName": "Phillip",
+    "familyName": "Platter",
+    "email": "phillip.platter@enron.com",
+    "name": "Phillip Platter",
+    "jobTitle": "Sr. Specialist",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "presto-k",
+    "givenName": "Kevin",
+    "familyName": "Presto",
+    "email": "kevin.presto@enron.com",
+    "name": "Kevin Presto",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "quenet-j",
+    "givenName": "Joe",
+    "familyName": "Quenet",
+    "email": "joe.quenet@enron.com",
+    "name": "Joe Quenet",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "quigley-d",
+    "givenName": "Dutch",
+    "familyName": "Quigley",
+    "email": "dutch.quigley@enron.com",
+    "name": "Dutch Quigley",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "rapp-b",
+    "givenName": "Bill",
+    "familyName": "Rapp",
+    "email": "bill.rapp@enron.com",
+    "name": "Bill Rapp",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "reitmeyer-j",
+    "givenName": "Jay",
+    "familyName": "Reitmeyer",
+    "email": "jay.reitmeyer@enron.com",
+    "name": "Jay Reitmeyer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "richey-c",
+    "givenName": "Cooper",
+    "familyName": "Richey",
+    "email": "cooper.richey@enron.com",
+    "name": "Cooper Richey",
+    "jobTitle": "Manager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "ring-a",
+    "givenName": "Andrea",
+    "familyName": "Ring",
+    "email": "andrea.ring@enron.com",
+    "name": "Andrea Ring",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "ring-r",
+    "givenName": "Richard",
+    "familyName": "Ring",
+    "email": "richard.ring@enron.com",
+    "name": "Richard Ring",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "rodrigue-r",
+    "givenName": "Robin",
+    "familyName": "Rodrigue",
+    "email": "robin.rodrigue@enron.com",
+    "name": "Robin Rodrigue",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "rogers-b",
+    "givenName": "Benjamin",
+    "familyName": "Rogers",
+    "email": "benjamin.rogers@enron.com",
+    "name": "Benjamin Rogers",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "ruscitti-k",
+    "givenName": "Kevin",
+    "familyName": "Ruscitti",
+    "email": "kevin.ruscitti@enron.com",
+    "name": "Kevin Ruscitti",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "sager-e",
+    "givenName": "Elizabeth",
+    "familyName": "Sager",
+    "email": "elizabeth.sager@enron.com",
+    "name": "Elizabeth Sager",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "saibi-e",
+    "givenName": "Eric",
+    "familyName": "Saibi",
+    "email": "eric.saibi@enron.com",
+    "name": "Eric Saibi",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "salisbury-h",
+    "givenName": "Holden",
+    "familyName": "Salisbury",
+    "email": "holden.salisbury@enron.com",
+    "name": "Holden Salisbury",
+    "jobTitle": "Cash Analyst",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "sanchez-m",
+    "givenName": "Monique",
+    "familyName": "Sanchez",
+    "email": "monique.sanchez@enron.com",
+    "name": "Monique Sanchez",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "sanders-r",
+    "givenName": "Richard",
+    "familyName": "Sanders",
+    "email": "richard.sanders@enron.com",
+    "name": "Richard Sanders",
+    "jobTitle": "Vice President, Enron Wholesale Services",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "scholtes-d",
+    "givenName": "Diana",
+    "familyName": "Scholtes",
+    "email": "diana.scholtes@enron.com",
+    "name": "Diana Scholtes",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "schoolcraft-d",
+    "givenName": "Darrell",
+    "familyName": "Schoolcraft",
+    "email": "darrell.schoolcraft@enron.com",
+    "name": "Darrell Schoolcraft",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "schwieger-j",
+    "givenName": "Jim",
+    "familyName": "Schwieger",
+    "email": "jim.schwieger@enron.com",
+    "name": "Jim Schwieger",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "scott-s",
+    "givenName": "Susan",
+    "familyName": "Scott",
+    "email": "susan.scott@enron.com",
+    "name": "Susan Scott",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "semperger-c",
+    "givenName": "Cara",
+    "familyName": "Semperger",
+    "email": "cara.semperger@enron.com",
+    "name": "Cara Semperger",
+    "jobTitle": "Senior Analyst Cash",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "shackleton-s",
+    "givenName": "Sara",
+    "familyName": "Shackleton",
+    "email": "sara.shackleton@enron.com",
+    "name": "Sara Shackleton",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "shankman-j",
+    "givenName": "Jeffrey",
+    "familyName": "Shankman",
+    "email": "jeffrey.shankman@enron.com",
+    "name": "Jeffrey Shankman",
+    "jobTitle": "President, Enron Global Mkts",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "shapiro-r",
+    "givenName": "Richard",
+    "familyName": "Shapiro",
+    "email": "richard.shapiro@enron.com",
+    "name": "Richard Shapiro",
+    "jobTitle": "Vice President, Regulatory Affairs",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "shively-h",
+    "givenName": "Hunter",
+    "familyName": "Shively",
+    "email": "hunter.shively@enron.com",
+    "name": "Hunter Shively",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "skilling-j",
+    "givenName": "Jeffery",
+    "familyName": "Skilling",
+    "email": "jeffery.skilling@enron.com",
+    "name": "Jeffery Skilling",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "slinger-r",
+    "givenName": "Ryan",
+    "familyName": "Slinger",
+    "email": "ryan.slinger@enron.com",
+    "name": "Ryan Slinger",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "smith-m",
+    "givenName": "Matt",
+    "familyName": "Smith",
+    "email": "matt.smith@enron.com",
+    "name": "Matt Smith",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "solberg-g",
+    "givenName": "Geir",
+    "familyName": "Solberg",
+    "email": "geir.solberg@enron.com",
+    "name": "Geir Solberg",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "south-s",
+    "givenName": "Steven",
+    "familyName": "South",
+    "additionalName": "P.",
+    "email": "steven.south@enron.com",
+    "name": "Steven P. South",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "staab-t",
+    "givenName": "Theresa",
+    "familyName": "Staab",
+    "email": "theresa.staab@enron.com",
+    "name": "Theresa Staab",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "stclair-c",
+    "givenName": "Carol",
+    "familyName": "St. Clair",
+    "email": "carol.stclair@enron.com",
+    "name": "Carol St. Clair",
+    "jobTitle": "In House Lawyer",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "steffes-j",
+    "givenName": "James",
+    "familyName": "Steffes",
+    "email": "james.steffes@enron.com",
+    "name": "James Steffes",
+    "jobTitle": "Vice President, Government Affairs",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "stepenovitch-j",
+    "givenName": "Joe",
+    "familyName": "Stepenovitch",
+    "email": "joe.stepenovitch@enron.com",
+    "name": "Joe Stepenovitch",
+    "jobTitle": "Vice President, Enery Marketing and Trading Florida",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "stokley-c",
+    "givenName": "Chris",
+    "familyName": "Stokley",
+    "email": "chris.stokley@enron.com",
+    "name": "Chris Stokley",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "storey-g",
+    "givenName": "Geoffery",
+    "familyName": "Storey",
+    "email": "geoffery.storey@enron.com",
+    "name": "Geoffery Storey",
+    "jobTitle": "Director",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "sturm-f",
+    "givenName": "Fletcher",
+    "familyName": "Sturm",
+    "email": "fletcher.sturm@enron.com",
+    "name": "Fletcher Sturm",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "swerzbin-m",
+    "givenName": "Mike",
+    "familyName": "Swerzbin",
+    "email": "mike.swerzbin@enron.com",
+    "name": "Mike Swerzbin",
+    "jobTitle": "Trader",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "symes-k",
+    "givenName": "Kate",
+    "familyName": "Symes",
+    "email": "kate.symes@enron.com",
+    "name": "Kate Symes",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "taylor-m",
+    "givenName": "Mark",
+    "familyName": "Taylor",
+    "email": "mark.taylor@enron.com",
+    "name": "Mark Taylor",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "tholt-j",
+    "givenName": "Jane",
+    "familyName": "Tholt",
+    "email": "jane.tholt@enron.com",
+    "name": "Jane Tholt",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "thomas-p",
+    "givenName": "Paul",
+    "familyName": "Thomas",
+    "email": "paul.thomas@enron.com",
+    "name": "Paul Thomas",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "townsend-j",
+    "givenName": "Judy",
+    "familyName": "Townsend",
+    "email": "judy.townsend@enron.com",
+    "name": "Judy Townsend",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "tycholiz-b",
+    "givenName": "Barry",
+    "familyName": "Tycholiz",
+    "email": "barry.tycholiz@enron.com",
+    "name": "Barry Tycholiz",
+    "jobTitle": "Vice President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "ward-k",
+    "givenName": "Kim",
+    "familyName": "Ward",
+    "email": "kim.ward@enron.com",
+    "name": "Kim Ward",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "watson-k",
+    "givenName": "Kimberly",
+    "familyName": "Watson",
+    "email": "kimberly.watson@enron.com",
+    "name": "Kimberly Watson",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "weldon-c",
+    "givenName": "Charles",
+    "familyName": "Weldon",
+    "email": "charles.weldon@enron.com",
+    "name": "Charles Weldon",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "whalley-g",
+    "givenName": "Lawrence",
+    "familyName": "Whalley",
+    "additionalName": "Greg",
+    "email": "lawrence.whalley@enron.com",
+    "name": "Lawrence Greg Whalley",
+    "jobTitle": "President",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "white-s",
+    "givenName": "Stacey",
+    "familyName": "White",
+    "email": "stacey.white@enron.com",
+    "name": "Stacey White",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "whitt-m",
+    "givenName": "Mark",
+    "familyName": "Whitt",
+    "email": "mark.whitt@enron.com",
+    "name": "Mark Whitt",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "williams-j",
+    "givenName": "Jason",
+    "familyName": "Williams",
+    "email": "jason.williams@enron.com",
+    "name": "Jason Williams",
+    "jobTitle": "Trading",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "williams-w3",
+    "givenName": "William",
+    "familyName": "Whalley",
+    "generationalSuffix": "Williams",
+    "email": "william.whalley@enron.com",
+    "name": "William Whalley Williams",
+    "jobTitle": "Senior Analyst",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "wolfe-j",
+    "givenName": "Jason",
+    "familyName": "Wolfe",
+    "email": "jason.wolfe@enron.com",
+    "name": "Jason Wolfe",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "ybarbo-p",
+    "givenName": "Paul",
+    "familyName": "Y'Barbo",
+    "email": "paul.ybarbo@enron.com",
+    "name": "Paul Y'Barbo",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "zipper-a",
+    "givenName": "Andy",
+    "familyName": "Zipper",
+    "email": "andy.zipper@enron.com",
+    "name": "Andy Zipper",
+    "jobTitle": "Vice President, Enron Online",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "alternateName": "zufferli-j",
+    "givenName": "John",
+    "familyName": "Zufferli",
+    "email": "john.zufferli@enron.com",
+    "name": "John Zufferli",
+    "affiliation": {
+      "legalName": "Enron Corporation"
+    }
+  }
+]
