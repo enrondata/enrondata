@@ -398,7 +398,7 @@
     "familyName": "Forney",
     "email": "john.forney@enron.com",
     "name": "John Forney",
-    "jobTitle": "Manager, Real time Trading Desk",
+    "jobTitle": "Manager, Real-Time Trading Desk",
     "affiliation": {
       "legalName": "Enron Corporation"
     }
@@ -1438,7 +1438,7 @@
     "familyName": "Shankman",
     "email": "jeffrey.shankman@enron.com",
     "name": "Jeffrey Shankman",
-    "jobTitle": "President, Enron Global Mkts",
+    "jobTitle": "President, Enron Global Markets",
     "affiliation": {
       "legalName": "Enron Corporation"
     }
