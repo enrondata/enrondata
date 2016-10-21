@@ -397,7 +397,8 @@
     "givenName": "John",
     "familyName": "Forney",
     "email": "john.forney@enron.com",
-    "name": "John Forney",
+    "additionalName": "M.",
+    "name": "John M. Forney",
     "jobTitle": "Manager, Real-Time Trading Desk",
     "affiliation": {
       "legalName": "Enron Corporation"
@@ -549,7 +550,8 @@
     "givenName": "Mary",
     "familyName": "Hain",
     "email": "mary.hain@enron.com",
-    "name": "Mary Hain",
+    "additionalName": "C.",
+    "name": "Mary C. Hain",
     "jobTitle": "In House Lawyer",
     "affiliation": {
       "legalName": "Enron Corporation"
