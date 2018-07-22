@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="README.txt" source="original">
+    <mtime>1442496026</mtime>
+    <size>1324</size>
+    <md5>62d59d43069429024090cce3ebdb1c32</md5>
+    <crc32>898edeea</crc32>
+    <sha1>142cdb8e8e7004b58a86015090cdd96b1608a5e8</sha1>
+    <format>Text</format>
+  </file>
+  <file name="edrm-enron-v2_allen-p_xml.zip" source="original">
+    <mtime>1442502581</mtime>
+    <size>889346061</size>
+    <md5>ee1a24f74f7a9aea0daf1ae36ad408d3</md5>
+    <crc32>c2dc1592</crc32>
+    <sha1>26f63439661c2eb8e240ce054b059ee65eef0374</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_arnold-j_xml.zip" source="original">
+    <mtime>1442502435</mtime>
+    <size>490663359</size>
+    <md5>06cb61b22615bb4be01e2536a15284c8</md5>
+    <crc32>b67f2966</crc32>
+    <sha1>1d95dc1a34920f5a8255421adf34d89112f7f783</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_arora-h_xml.zip" source="original">
+    <mtime>1442502528</mtime>
+    <size>44594541</size>
+    <md5>f8c53b2c4bece686594f69bde28bee28</md5>
+    <crc32>f8ee01e3</crc32>
+    <sha1>3af82a21a9d5a6b9b29ba8591058318501c838e8</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_badeer-r_xml.zip" source="original">
+    <mtime>1442502467</mtime>
+    <size>127943799</size>
+    <md5>57e5cd97ab82068306ba2c3986bbe6fa</md5>
+    <crc32>8ba41e36</crc32>
+    <sha1>e671c05e17cf1714605558a34779940ce1765786</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_bailey-s_xml.zip" source="original">
+    <mtime>1442501774</mtime>
+    <size>17260560</size>
+    <md5>e328de16ff6b1c08915ae8af82a7c086</md5>
+    <crc32>1ec400e0</crc32>
+    <sha1>05b6dc822617b596685e0239c32b6605e8f9506c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_bass-e_xml.zip" source="original">
+    <mtime>1442502413</mtime>
+    <size>450001563</size>
+    <md5>8cfdf216e5cfbe1da5e5681540436817</md5>
+    <crc32>3996882a</crc32>
+    <sha1>ce32c458a3a5657c68a45c5c89abe631f3433ae4</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_baughman-d_xml.zip" source="original">
+    <mtime>1442502402</mtime>
+    <size>259415007</size>
+    <md5>3005e847f7a80c355b0c51eb8eee9f26</md5>
+    <crc32>ef56ef67</crc32>
+    <sha1>becdf95489055d8e0f1a8ce99daf7d0ff9bd3a52</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_beck-s_xml.zip" source="original">
+    <mtime>1442502567</mtime>
+    <size>1873264813</size>
+    <md5>f4f1f7e18074c52c8d6e8a9c7143524b</md5>
+    <crc32>502937eb</crc32>
+    <sha1>b4c3ad61d0ee28d242a29c559ee79ca04dd94797</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_benson-r_xml.zip" source="original">
+    <mtime>1442501265</mtime>
+    <size>64577847</size>
+    <md5>822f91368b3418cf5d8db56b65f60c22</md5>
+    <crc32>a7904ca5</crc32>
+    <sha1>16fde581e1fa676799107b6d51b34d2780d0f092</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_blair-l_xml.zip" source="original">
+    <mtime>1442502448</mtime>
+    <size>87441882</size>
+    <md5>64c59d87748b78d81e6137dcb16d3be6</md5>
+    <crc32>73cd4ce3</crc32>
+    <sha1>b4914d268065d3357b95c80c9e02f798e71b727a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_brawner-s_xml.zip" source="original">
+    <mtime>1442502457</mtime>
+    <size>56632959</size>
+    <md5>4297ea6a562c4929466b76ebda10f0ef</md5>
+    <crc32>15d2f1f6</crc32>
+    <sha1>18bfaae7549aa1123a3eeb40b95fde792bbf0cd4</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_buy-r_xml.zip" source="original">
+    <mtime>1442502564</mtime>
+    <size>272464809</size>
+    <md5>0373ee30a922091272c90cb54149279b</md5>
+    <crc32>0e09eba1</crc32>
+    <sha1>52decc1f4d055905f3e163637c92a39118007ee6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_campbell-l_xml.zip" source="original">
+    <mtime>1442502544</mtime>
+    <size>576737388</size>
+    <md5>708170122cce0a3d753270f44314ede8</md5>
+    <crc32>8784b065</crc32>
+    <sha1>f5330bbc36475a5bf4bc88252603273d12d20176</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_carson-m_xml.zip" source="original">
+    <mtime>1442501725</mtime>
+    <size>44536173</size>
+    <md5>e27a61e550d1c313fab4ee2c8897db94</md5>
+    <crc32>e8588cdc</crc32>
+    <sha1>c7379a0d0d7297c6b33b599dfa97150b76e47e25</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_cash-m_xml.zip" source="original">
+    <mtime>1442502497</mtime>
+    <size>133295320</size>
+    <md5>1c65110479083575bcc0dadbbbda6b24</md5>
+    <crc32>6f5eace5</crc32>
+    <sha1>6079aad57ede4976c5acad9f4c219deeb4112881</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_causholli-m_xml.zip" source="original">
+    <mtime>1442502586</mtime>
+    <size>142681628</size>
+    <md5>fee6d71b496b2bb3e765191d64d667ef</md5>
+    <crc32>233e347e</crc32>
+    <sha1>96d88ed8d18630862717302a486bb414ea467dc6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_corman-s_xml.zip" source="original">
+    <mtime>1442502411</mtime>
+    <size>78069175</size>
+    <md5>bcedd58a6a195ba77a83cb70501ae54d</md5>
+    <crc32>1662829a</crc32>
+    <sha1>3f1ff605089915af6a66c14d45ece658af512c91</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_crandall-s_xml.zip" source="original">
+    <mtime>1442502075</mtime>
+    <size>55215344</size>
+    <md5>befa8a35b0f41b968e2af9a29ae6073b</md5>
+    <crc32>43c9ea7d</crc32>
+    <sha1>0ae62bf66532ad7b9a80852e711bd251f61988d5</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_cuilla-m_xml.zip" source="original">
+    <mtime>1442501860</mtime>
+    <size>57626649</size>
+    <md5>9a60872c13589e19c4a54bb97713b63b</md5>
+    <crc32>3e723907</crc32>
+    <sha1>444bc9fe5a0a736d77caf089eac1c2b9fc81a907</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_dasovich-j_xml.zip" source="original">
+    <mtime>1442502606</mtime>
+    <size>3987955738</size>
+    <md5>f12c2b92a03c51c7d5a9e9b29f010fd4</md5>
+    <crc32>10be2e40</crc32>
+    <sha1>0322da2faa79563f63d1479f8888b1678bc37e42</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_davis-d_xml.zip" source="original">
+    <mtime>1442502590</mtime>
+    <size>524335598</size>
+    <md5>3142dd63728c7847f6529fcc8c34d59c</md5>
+    <crc32>3bfd88ed</crc32>
+    <sha1>dd8b53f7645af4e1d725601e7d02da05726d6e9a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_dean-c2_xml.zip" source="original">
+    <mtime>1442502504</mtime>
+    <size>21942092</size>
+    <md5>1c8b09e862535010ac651fd19bc85702</md5>
+    <crc32>7e827628</crc32>
+    <sha1>8e6ceb254540b89fae81910072f5dbdfd45a9af9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_dean-c_xml.zip" source="original">
+    <mtime>1442502127</mtime>
+    <size>203515004</size>
+    <md5>37569068c4a8e553488631432ab2da64</md5>
+    <crc32>f31d3847</crc32>
+    <sha1>7be08d1bb10bf436def9d18c48c379e7f2852dd3</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_delainey-d_xml.zip" source="original">
+    <mtime>1442502479</mtime>
+    <size>184500353</size>
+    <md5>5d5d0d26cbe16ba7e96742f48d2c8a5f</md5>
+    <crc32>6d37d0a1</crc32>
+    <sha1>fde9ff4a6c8bc8152a04fdb0dd1e459bf7ac4066</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_derrick-j_xml.zip" source="original">
+    <mtime>1442501945</mtime>
+    <size>99962258</size>
+    <md5>9eb973008c50857a8f989c24917b5d12</md5>
+    <crc32>ca0bfb24</crc32>
+    <sha1>ef05c6111c906f9913320d03406f8acf786b103c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_dickson-s_xml.zip" source="original">
+    <mtime>1442502561</mtime>
+    <size>43896359</size>
+    <md5>5b93b107dd72378a0172a0806237de74</md5>
+    <crc32>5df18347</crc32>
+    <sha1>7bbde6e4a7f6dd6e0be48038dfb575b008c16150</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_donoho-l_xml.zip" source="original">
+    <mtime>1442502065</mtime>
+    <size>47112653</size>
+    <md5>9d4bfe509d2cf8a262117233af681d6d</md5>
+    <crc32>830c335b</crc32>
+    <sha1>34fa536f7caa1bd7a0bec00aa49195824c25dae5</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_donohoe-t_xml.zip" source="original">
+    <mtime>1442502561</mtime>
+    <size>107874895</size>
+    <md5>c4dcf5d27b5811b19e56e01b5ba02f41</md5>
+    <crc32>319b7623</crc32>
+    <sha1>2cac7f4f2b5a90022122b9f55241655ddfe7c80c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_dorland-c_xml.zip" source="original">
+    <mtime>1442502599</mtime>
+    <size>960364365</size>
+    <md5>61f207f669d399de1d9f057e7b4ee3cb</md5>
+    <crc32>72858306</crc32>
+    <sha1>b9362d13012edfea73089358105158fae5fa3c07</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_ermis-f_xml.zip" source="original">
+    <mtime>1442502493</mtime>
+    <size>118711096</size>
+    <md5>7b8d9d19314b5e7d2727528668eca099</md5>
+    <crc32>67d33678</crc32>
+    <sha1>a1c7f80bd4ed944dfec394ff553a6fbade8a8554</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_farmer-d_xml.zip" source="original">
+    <mtime>1442502611</mtime>
+    <size>765165147</size>
+    <md5>f94ddf860637b28fe7d46e7c8c8bf415</md5>
+    <crc32>80bc900c</crc32>
+    <sha1>5a77e5fd46e6a5da3be15bdadf8d8c16e8f56930</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_fischer-m2_xml.zip" source="original">
+    <mtime>1442502245</mtime>
+    <size>37965636</size>
+    <md5>75fc03dbb5a6c61f69aa6c55d5362a33</md5>
+    <crc32>08459a88</crc32>
+    <sha1>74a77838351be87fa92c6065e0409731c42529d9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_fischer-m_xml.zip" source="original">
+    <mtime>1442502543</mtime>
+    <size>252288398</size>
+    <md5>1ccd3a86c9708d9ca3f172e0472090fa</md5>
+    <crc32>fef99846</crc32>
+    <sha1>df724416001375f577ab1b75eab18526b8025e67</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_forney-j_xml.zip" source="original">
+    <mtime>1442501652</mtime>
+    <size>33194890</size>
+    <md5>ea12456b8a79986b5fa3e48090a2d6f6</md5>
+    <crc32>22685e1a</crc32>
+    <sha1>ed8047628e000db510164373022ac81a295145c5</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_fossum-d_xml.zip" source="original">
+    <mtime>1442502497</mtime>
+    <size>239818429</size>
+    <md5>1925b0468e577c740b6db55a6fcc6742</md5>
+    <crc32>7a01ca50</crc32>
+    <sha1>a6f27ba31a30451be344ae78ac6fa311f027718a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_gang-l_xml.zip" source="original">
+    <mtime>1442501870</mtime>
+    <size>49259531</size>
+    <md5>ea9a4d8cb063c85fe7c1985fff5abd40</md5>
+    <crc32>12661c2e</crc32>
+    <sha1>7b7b626982ab9e512840016bed96fa521d1eb3c6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_gay-r_xml.zip" source="original">
+    <mtime>1442502289</mtime>
+    <size>244076638</size>
+    <md5>5ea09b10d30305faa34129a89fd692d8</md5>
+    <crc32>3939501e</crc32>
+    <sha1>4e16d28eaab72d4212c6dfbb1f05797c85483451</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_geaccone-t_xml.zip" source="original">
+    <mtime>1442502415</mtime>
+    <size>106286998</size>
+    <md5>32e73d6d1bc9e0dbeaac1475c9fa82d4</md5>
+    <crc32>a83d638e</crc32>
+    <sha1>e640340d5417f53576dd0409b3255c8a52de662c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_germany-c_xml.zip" source="original">
+    <mtime>1442502608</mtime>
+    <size>471398722</size>
+    <md5>c78a97d7e361302416c1547183fa1187</md5>
+    <crc32>bc0189f4</crc32>
+    <sha1>b24e787737dcd2326946ae3d0f5992f1a080e3a9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_gilbertsmith-d_xml.zip" source="original">
+    <mtime>1442501556</mtime>
+    <size>63844125</size>
+    <md5>581ceb617d09c21dbbc73cab075e22a3</md5>
+    <crc32>35cec462</crc32>
+    <sha1>23e609389473079865016caaca88963c0bf77919</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_giron-d_xml.zip" source="original">
+    <mtime>1442502560</mtime>
+    <size>972164351</size>
+    <md5>841cd36ce51b06111dbf11ad1ecf6ae9</md5>
+    <crc32>276abdde</crc32>
+    <sha1>97cfc0af66a7f925c6287ca25b7626a45a5e03ae</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_griffith-j_xml.zip" source="original">
+    <mtime>1442502512</mtime>
+    <size>434680674</size>
+    <md5>cef15c564a0f717b75577193c5cf6357</md5>
+    <crc32>268db4e5</crc32>
+    <sha1>c03644029edf8e88c4f6868f106cfdb03a8564ca</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_grigsby-m_xml.zip" source="original">
+    <mtime>1442502603</mtime>
+    <size>355567859</size>
+    <md5>cd5812a3c2bf976ce51d437ef606e598</md5>
+    <crc32>dcb9ee55</crc32>
+    <sha1>46bf2cd7a454cdd2c852c309a0a2d56a07d673de</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_guzman-m_xml.zip" source="original">
+    <mtime>1442502433</mtime>
+    <size>161944903</size>
+    <md5>b776f0554c1dcd419c03b9e96dec221b</md5>
+    <crc32>dc132e6f</crc32>
+    <sha1>42207bdb63d3394976be7cc5140f5029abe02055</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_haedicke-m_xml.zip" source="original">
+    <mtime>1442502544</mtime>
+    <size>646360536</size>
+    <md5>895134bd94f22800bd0911bd4515ff78</md5>
+    <crc32>dc9989a7</crc32>
+    <sha1>951f56fe6e89ed2ab3a0890a0a30ceee7b17192b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hain-m_xml.zip" source="original">
+    <mtime>1442502564</mtime>
+    <size>303475278</size>
+    <md5>d0f02a2f9f9f13d29393372bfbdfbac4</md5>
+    <crc32>5bda28fc</crc32>
+    <sha1>1b5297d4180f5dec136be0c511b82bc39a7d46fe</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_harris-s_xml.zip" source="original">
+    <mtime>1442496228</mtime>
+    <size>6027493</size>
+    <md5>3fc327d0699b9b19068638d6801a6581</md5>
+    <crc32>c9831696</crc32>
+    <sha1>ce974e24aafd4b5a06ab4f87ea4e79c9fad4face</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hayslett-r_xml.zip" source="original">
+    <mtime>1442502146</mtime>
+    <size>129012407</size>
+    <md5>88e79cdfdf2666f8edf060235bb8b3fa</md5>
+    <crc32>2d95c7c5</crc32>
+    <sha1>4c4ecd705ea6859dc380067e0815960a3cc5c526</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_heard-m_xml.zip" source="original">
+    <mtime>1442500997</mtime>
+    <size>85256413</size>
+    <md5>32dbfb25ba82a9e4a181972dd0485bf3</md5>
+    <crc32>79967857</crc32>
+    <sha1>244e1046d34a45e4494d3c9c376e8b0b3ea87ebe</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hendrickson-s_xml.zip" source="original">
+    <mtime>1442500486</mtime>
+    <size>25774051</size>
+    <md5>4a0e0cf175c56692c7117d18282aac54</md5>
+    <crc32>e146ab79</crc32>
+    <sha1>8a9772d7de2fbd6083b5e3cab8af20e4ad784347</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hernandez-j_xml.zip" source="original">
+    <mtime>1442502503</mtime>
+    <size>230800338</size>
+    <md5>2f01a39c0481df901c4e0590e3f2753c</md5>
+    <crc32>546720c1</crc32>
+    <sha1>5cd9910fa11663a9cd31be4595ff645a950d56fe</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hodge-j2_xml.zip" source="original">
+    <mtime>1442501432</mtime>
+    <size>46841813</size>
+    <md5>bea3df953a84cac9887116f76cffa955</md5>
+    <crc32>e674aa2c</crc32>
+    <sha1>456ad30e00832b84705181d48540c0b6ea14217a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hodge-j_xml.zip" source="original">
+    <mtime>1442502031</mtime>
+    <size>70057424</size>
+    <md5>92b2fa11f7304ff38bac6608a7a948e9</md5>
+    <crc32>e9314dc6</crc32>
+    <sha1>dd6fb4fe12b71b5a3032819bc288cd9cd60533a9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_holst-k_xml.zip" source="original">
+    <mtime>1442500959</mtime>
+    <size>43070243</size>
+    <md5>6a3af4af06be18ab815a8f8fe4e60ad6</md5>
+    <crc32>c7b2f00f</crc32>
+    <sha1>9d79f1e0254fcb4d5f0ab82c8d4cd3e83adab768</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_horton-s_xml.zip" source="original">
+    <mtime>1442502455</mtime>
+    <size>126784336</size>
+    <md5>43f3cf94d064de7137e05b7d0cc358d3</md5>
+    <crc32>1e63f9ef</crc32>
+    <sha1>1e82bb7b43daa854c82fe34626c26abe61a4601b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hyatt-k_xml.zip" source="original">
+    <mtime>1442502004</mtime>
+    <size>154232340</size>
+    <md5>862e8cd718a3f25b74fb6be90c924e20</md5>
+    <crc32>ab6492e3</crc32>
+    <sha1>91d3e48533debe80c03e66e07c143b199b22d376</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_hyvl-d_xml.zip" source="original">
+    <mtime>1442502378</mtime>
+    <size>344582300</size>
+    <md5>bfca0a4d94d96dd98ab2a2a9db48e373</md5>
+    <crc32>2ecab1f2</crc32>
+    <sha1>2dd9339e22af6a4a67689c27b289eb048752da9e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_jones-t_xml.zip" source="original">
+    <mtime>1442502545</mtime>
+    <size>1433832722</size>
+    <md5>d09339944d98506f2cce0aa758bf43f6</md5>
+    <crc32>ad6e300a</crc32>
+    <sha1>b665f85799e2381b4c065d54890398aab7cff3ea</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kaminski-v_xml_1of2.zip" source="original">
+    <mtime>1442502610</mtime>
+    <size>4114600777</size>
+    <md5>957ce8e45994f848b082d189eaa21a34</md5>
+    <crc32>567be0d8</crc32>
+    <sha1>07ff00fc923122515157cb7d288bf25e5cc3e901</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kaminski-v_xml_2of2.zip" source="original">
+    <mtime>1442502609</mtime>
+    <size>3298792295</size>
+    <md5>75767bf2218c1c8371c54d48ca714f23</md5>
+    <crc32>487f0253</crc32>
+    <sha1>fc2827e4300d40a2ff584fe35f472317ac21ef21</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_1of8.zip" source="original">
+    <mtime>1442502610</mtime>
+    <size>3366510249</size>
+    <md5>b384828ca28e6019a4ba6ae8dca09ff4</md5>
+    <crc32>778d715a</crc32>
+    <sha1>25eaa28e14d6af0f92db1ac24a42dd62c72af724</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_2of8.zip" source="original">
+    <mtime>1442502600</mtime>
+    <size>3541527437</size>
+    <md5>98f8c77f250b444b6e17bed579dd635d</md5>
+    <crc32>34a98281</crc32>
+    <sha1>a45f25a2a91bba1ecb8bfd8d4399f87492ce27c2</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_3of8.zip" source="original">
+    <mtime>1442502605</mtime>
+    <size>2278919986</size>
+    <md5>7a61444424514711df19862d9ebca957</md5>
+    <crc32>984ef79a</crc32>
+    <sha1>b0a14b059c4658e29a7c3775da73961ac72d83b7</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_4of8.zip" source="original">
+    <mtime>1442502607</mtime>
+    <size>3143957518</size>
+    <md5>0bbb3fd34dfc7e7d071ba9eb7164733e</md5>
+    <crc32>452f6f9e</crc32>
+    <sha1>31f30b66985f2fe3c4b097f350ac1af6d31fd799</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_5of8.zip" source="original">
+    <mtime>1442502586</mtime>
+    <size>2935430868</size>
+    <md5>5071a189768b1150099adbd7ca5b0de2</md5>
+    <crc32>f57be2b5</crc32>
+    <sha1>8c193acc5cc7a54bdac32ace91cb0ccdcd4624ac</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_6of8.zip" source="original">
+    <mtime>1442502573</mtime>
+    <size>1839033325</size>
+    <md5>259453c07afad9e3f915923caffe56d8</md5>
+    <crc32>b82bb589</crc32>
+    <sha1>ed4cd4645299aa79134a8a632a6d58e31b83f51a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_7of8.zip" source="original">
+    <mtime>1442502608</mtime>
+    <size>3245248519</size>
+    <md5>f98b9af310193f1a35c9a79a99066a4e</md5>
+    <crc32>0be537d7</crc32>
+    <sha1>cb0da819a22aac2f2abeb14a750634b607af2861</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kean-s_xml_8of8.zip" source="original">
+    <mtime>1442502611</mtime>
+    <size>2327652926</size>
+    <md5>bb1a7da2a1faa8dfa75f5c206ac14b20</md5>
+    <crc32>db24efc6</crc32>
+    <sha1>d9946f152ba755cc6b1b4a2a14fe6a8d9a50c56c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_keavey-p_xml.zip" source="original">
+    <mtime>1442502459</mtime>
+    <size>76674843</size>
+    <md5>a7b6608a92c196797e63acc1c7f78fea</md5>
+    <crc32>209a5470</crc32>
+    <sha1>e228c9fc4c26aa56896c9229ea664ad4e0638427</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_keiser-k_xml.zip" source="original">
+    <mtime>1442502513</mtime>
+    <size>107503893</size>
+    <md5>d2c1eec369b193e6e3f0a539a3285b81</md5>
+    <crc32>6bf1a55b</crc32>
+    <sha1>3e15ebe37da4578a5a75762639f9d3c26b0ea110</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_king-j_xml.zip" source="original">
+    <mtime>1442502432</mtime>
+    <size>19867684</size>
+    <md5>e3b32e617db976b394179d89c957e0a5</md5>
+    <crc32>a5a300eb</crc32>
+    <sha1>dd6fc595ad80030b0a0231ba44d5f5fa0976857c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kitchen-l_xml.zip" source="original">
+    <mtime>1442502449</mtime>
+    <size>561667469</size>
+    <md5>84171a885b4a4b59c6e56542b1b6a84d</md5>
+    <crc32>cc40137f</crc32>
+    <sha1>ed6483c5b8febe10ba05a9c6e73dbf7c7cdc2918</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_kuykendall-t_xml.zip" source="original">
+    <mtime>1442501458</mtime>
+    <size>89629860</size>
+    <md5>aaac05f305f937274484c0383c9b05ca</md5>
+    <crc32>ae9391ac</crc32>
+    <sha1>6bc8d5a7a6838effb783cabcc05a72eedc2f41eb</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lavorato-j_xml.zip" source="original">
+    <mtime>1442502608</mtime>
+    <size>864434617</size>
+    <md5>ef8cf462a4964ee3952fd7d8c4ddb43e</md5>
+    <crc32>06f07e65</crc32>
+    <sha1>faa453f533927c17ae7de53182272db2dc9e46a9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lay-k_xml.zip" source="original">
+    <mtime>1442502566</mtime>
+    <size>263547355</size>
+    <md5>63dedc833ea1c05c8df58d45c8bc5b3f</md5>
+    <crc32>155c9438</crc32>
+    <sha1>ab1a2b73e04519e49c4fc868f54314b75d3164f6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lenhart-m_xml.zip" source="original">
+    <mtime>1442502611</mtime>
+    <size>2527948698</size>
+    <md5>5732f47646cf5b96d9423c4e65d00f2e</md5>
+    <crc32>31282ac2</crc32>
+    <sha1>5129e2d19ae4964b5eb3eadc75a1ebe84dc23b90</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lewis-a_xml.zip" source="original">
+    <mtime>1442502465</mtime>
+    <size>114201459</size>
+    <md5>5d847a7b217f742f5ad77d54c95e5517</md5>
+    <crc32>03f8a490</crc32>
+    <sha1>ede8ee6a8710c70828d88ca13d14d58d43cc640d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_linder-e_xml.zip" source="original">
+    <mtime>1442501030</mtime>
+    <size>59278006</size>
+    <md5>08494414768a9e126cff7b6d94df7b19</md5>
+    <crc32>b81db8cf</crc32>
+    <sha1>a11fddce53b5a989b0cd6dd02669909aafa505f3</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lokay-m_xml.zip" source="original">
+    <mtime>1442502595</mtime>
+    <size>385972362</size>
+    <md5>92723c4dc6a225fe01bc9276d71a8db4</md5>
+    <crc32>c3324833</crc32>
+    <sha1>b1a4d72ff6f5c97a22b7152a5457691b0e9630df</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lokey-t_xml.zip" source="original">
+    <mtime>1442502373</mtime>
+    <size>40772159</size>
+    <md5>a509cb9b6f01a5d26a2153bb2a75644b</md5>
+    <crc32>6d017ed2</crc32>
+    <sha1>7f8f9ef901bcffd48cd6bb2e07e17bcfa88a4815</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_love-p_xml.zip" source="original">
+    <mtime>1442502597</mtime>
+    <size>766792461</size>
+    <md5>1a5398eef2cfc12b65420ed8e259b8dd</md5>
+    <crc32>a6b7daae</crc32>
+    <sha1>87f9e2ef064f40f66f828d2a51d0ca8f9c65a49e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_lucci-p_xml.zip" source="original">
+    <mtime>1442502003</mtime>
+    <size>65605662</size>
+    <md5>84044ac069c23983e80dd4f89e3b2a11</md5>
+    <crc32>6b87e3fa</crc32>
+    <sha1>14e9bcf530ee6b0ebc9042b8d60e964f756eb55d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_maggi-m_xml.zip" source="original">
+    <mtime>1442502457</mtime>
+    <size>65449857</size>
+    <md5>dfee04e9aaa7c61213e3e692115117a6</md5>
+    <crc32>a1ef61c9</crc32>
+    <sha1>9d5ffb10696795aa479abf10a18fca14f7e9adba</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mann-k_xml.zip" source="original">
+    <mtime>1442502603</mtime>
+    <size>2840813630</size>
+    <md5>8e8b9f522a9d2199baf1a8056fe3ca63</md5>
+    <crc32>86ebd53e</crc32>
+    <sha1>e1961876373273fa0101c255f4af65642cd4feac</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_martin-t_xml.zip" source="original">
+    <mtime>1442502454</mtime>
+    <size>76697705</size>
+    <md5>0682c17519b722df8d9a0c43795627b0</md5>
+    <crc32>660f6cf5</crc32>
+    <sha1>a0a09608481d892e467cab3c35e057d047cfc50e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_may-l_xml.zip" source="original">
+    <mtime>1442502610</mtime>
+    <size>242013348</size>
+    <md5>9f8d2867c05dccaa276a8909aa8623b9</md5>
+    <crc32>2a52f893</crc32>
+    <sha1>2cb9c98c2b69254c122c1494235ae9ddec6567e8</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mccarty-d_xml.zip" source="original">
+    <mtime>1442501919</mtime>
+    <size>38687656</size>
+    <md5>3cda381c54abf2e3daa3e983a3c4b8d9</md5>
+    <crc32>b77059be</crc32>
+    <sha1>906a17dfdb4e6270cfb3bef22c9623a3d1c403c8</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mcconnell-m_xml.zip" source="original">
+    <mtime>1442502603</mtime>
+    <size>774902377</size>
+    <md5>2be247af80af6771ae17e1c9064001dd</md5>
+    <crc32>4b611740</crc32>
+    <sha1>fd43e0dcd738f6b8c9e248112c15d328fa2a5732</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mckay-b_xml.zip" source="original">
+    <mtime>1442500920</mtime>
+    <size>40681287</size>
+    <md5>8575a9896349be98d2eda88fba8cc17e</md5>
+    <crc32>4d6ec294</crc32>
+    <sha1>dd023b2a6410a40a6404e14734d4e5fef66da03f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mckay-j_xml.zip" source="original">
+    <mtime>1442502567</mtime>
+    <size>193333079</size>
+    <md5>b39aceeee6a39fd55597ab8421046ffc</md5>
+    <crc32>9d99135b</crc32>
+    <sha1>9c390a75204fa7d4d1e0b2a91845bd4bfcc440f4</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mclaughlin-e_xml.zip" source="original">
+    <mtime>1442502553</mtime>
+    <size>277121184</size>
+    <md5>5650a7153a5dccf5501497059331e657</md5>
+    <crc32>212c2dfb</crc32>
+    <sha1>256bd6b206b1a6a931af35a78b93d4633be529aa</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_merris-s_xml.zip" source="original">
+    <mtime>1442502243</mtime>
+    <size>40959339</size>
+    <md5>28c3c13eaeea7ce00648bbd922b53924</md5>
+    <crc32>47cdb839</crc32>
+    <sha1>6ea4eb94a11d27ae7e21a5aee0d11cba7dbf5b95</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_meyers-a_xml.zip" source="original">
+    <mtime>1442496210</mtime>
+    <size>6074167</size>
+    <md5>d2ee9763e09ccc882dda16833c408f49</md5>
+    <crc32>7ef1d164</crc32>
+    <sha1>ba909bc7ad9e6a28589fdf3beeef31e9b221671c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_mims-p_xml.zip" source="original">
+    <mtime>1442501995</mtime>
+    <size>52206651</size>
+    <md5>1f829564f669b6d1ff6601076c20b0c0</md5>
+    <crc32>33f92b3f</crc32>
+    <sha1>cea55ea3fc41c2a9dbf7c10bc02f0e1af179246a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_motley-m_xml.zip" source="original">
+    <mtime>1442502160</mtime>
+    <size>35230579</size>
+    <md5>a2bbb91d0b59458ed9b2bce4281571ff</md5>
+    <crc32>66eb03a9</crc32>
+    <sha1>bda90f6c1fd4d6d1fcb6755093b5c45ec2e89eb0</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_neal-s_xml.zip" source="original">
+    <mtime>1442502413</mtime>
+    <size>274446191</size>
+    <md5>0c4052b4f8b73dbf52d6f738ad94be7b</md5>
+    <crc32>35260964</crc32>
+    <sha1>d3bab1adc7bf3a13a5cb29e15ebcd481a44fea9d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_nemec-g_xml.zip" source="original">
+    <mtime>1442502596</mtime>
+    <size>773999335</size>
+    <md5>2ab150a9b1f6b3a3b75294fc80060e39</md5>
+    <crc32>94436d66</crc32>
+    <sha1>991f9b9aec0b99218b58db87be77b291017c115d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_panus-s_xml.zip" source="original">
+    <mtime>1442501344</mtime>
+    <size>14995333</size>
+    <md5>6e308a085727920c005177cd9e3eda06</md5>
+    <crc32>4e55174f</crc32>
+    <sha1>67c76e7d1c4b4fdc48e44e618e89a695572d5243</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_parks-j_xml.zip" source="original">
+    <mtime>1442502508</mtime>
+    <size>182018165</size>
+    <md5>8df67ce59548eecd39220f026e0c5c3f</md5>
+    <crc32>dedf830a</crc32>
+    <sha1>4bf867df157445284674bb9783bb75c2292093c0</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_pereira-s_xml.zip" source="original">
+    <mtime>1442496224</mtime>
+    <size>5481547</size>
+    <md5>de9aad85b3a6fdb87186477e5d63411c</md5>
+    <crc32>3ed53f49</crc32>
+    <sha1>00df03b9151d881ee057e9f64c9fcf42232b999b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_perlingiere-d_xml.zip" source="original">
+    <mtime>1442502587</mtime>
+    <size>295265067</size>
+    <md5>4af35dadbc5add81585d1f8be8e04538</md5>
+    <crc32>125d6b4c</crc32>
+    <sha1>f1411052407431475e0e1231eeda2d76325bf8e6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_pimenov-v_xml.zip" source="original">
+    <mtime>1442502058</mtime>
+    <size>62814979</size>
+    <md5>7e371179dcb7523f8e16e6516ab19a84</md5>
+    <crc32>8ae9c36a</crc32>
+    <sha1>a2d8912e7f2e50823088003f1f1e9507b4b20539</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_platter-p_xml.zip" source="original">
+    <mtime>1442502423</mtime>
+    <size>41739126</size>
+    <md5>ce96042b0c1f7d55f1ba750e6f845a0b</md5>
+    <crc32>f12cda6d</crc32>
+    <sha1>ea8c6b0be8cf2307caa48552fd76794103cd44c8</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_presto-k_xml.zip" source="original">
+    <mtime>1442502609</mtime>
+    <size>80846660</size>
+    <md5>c9caab0ea86485cc45407cb42d09d420</md5>
+    <crc32>f689512b</crc32>
+    <sha1>eb6e034585d6d7c24fc715c08f56c95c98bf7796</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_quenet-j_xml.zip" source="original">
+    <mtime>1442499146</mtime>
+    <size>8375043</size>
+    <md5>2299f8314d60f4cdab3c86d59423c4e6</md5>
+    <crc32>96c23c8b</crc32>
+    <sha1>757f7ef2abcafe62bc98b1bf318233a5a284ad4e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_quigley-d_xml.zip" source="original">
+    <mtime>1442502351</mtime>
+    <size>97902947</size>
+    <md5>78ea1702245223fdefdde6c61b829195</md5>
+    <crc32>57b67c81</crc32>
+    <sha1>6abd931c57ceb524897099e5cd83218d31f350bb</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_rapp-b_xml.zip" source="original">
+    <mtime>1442496225</mtime>
+    <size>5228419</size>
+    <md5>7f108df10743569bb242ef62a174ed6e</md5>
+    <crc32>dad0d417</crc32>
+    <sha1>4417e90ed8b80b3f0bbd9606cf2bc1f53e7e8095</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_reitmeyer-j_xml.zip" source="original">
+    <mtime>1442502604</mtime>
+    <size>58911830</size>
+    <md5>e2fe3632829bf9ff51dbae2fcaf109b8</md5>
+    <crc32>73a8a814</crc32>
+    <sha1>8b4020e5aec8f4a5a1c3d7cc29746d19054f0b32</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_richey-c_xml.zip" source="original">
+    <mtime>1442502368</mtime>
+    <size>50119125</size>
+    <md5>b9b5fee132a09e4605a13143fddefb59</md5>
+    <crc32>17b4c2bc</crc32>
+    <sha1>451882b62096b3d98c5c011a0e5846d22f142d1c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_ring-a_xml.zip" source="original">
+    <mtime>1442502568</mtime>
+    <size>195826527</size>
+    <md5>2b6f21545565742be41068725751af14</md5>
+    <crc32>d7e334e0</crc32>
+    <sha1>a57bc901f32de232c3cfc721ec985d077d01794f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_ring-r_xml.zip" source="original">
+    <mtime>1442502305</mtime>
+    <size>113417202</size>
+    <md5>4bcc5ba0257103a76bdb431d54867fab</md5>
+    <crc32>0db1ff91</crc32>
+    <sha1>9795c6eef16880df054e55e407f27fb0ca255a8f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_rodrigue-r_xml.zip" source="original">
+    <mtime>1442502578</mtime>
+    <size>433289884</size>
+    <md5>b3bc235259232ea9f4be17f35683072a</md5>
+    <crc32>2d7b236b</crc32>
+    <sha1>018e23a956c400cc7e38d8893eaed33fcd6b5cda</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_rogers-b_xml.zip" source="original">
+    <mtime>1442502607</mtime>
+    <size>2671419536</size>
+    <md5>b3e8633d99b781e7570bd3233aec5b00</md5>
+    <crc32>c196e6a4</crc32>
+    <sha1>c1d9c11c1c1551780e1bd84be7786b50f5590577</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_ruscitti-k_xml.zip" source="original">
+    <mtime>1442502401</mtime>
+    <size>211794427</size>
+    <md5>db065e6c529c2fd1d1f3dadc33ff738a</md5>
+    <crc32>a3e01bd7</crc32>
+    <sha1>1b71a1ff163e6a9ba8edd3dbb7100d362c368fba</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_sager-e_xml.zip" source="original">
+    <mtime>1442502533</mtime>
+    <size>522332025</size>
+    <md5>7ef60ec753521f327548664301a72a21</md5>
+    <crc32>40817e42</crc32>
+    <sha1>c26a3b75e36792ddfddfcb74d3712203fa5564ab</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_saibi-e_xml.zip" source="original">
+    <mtime>1442501320</mtime>
+    <size>70154461</size>
+    <md5>3c7b24569c8cb7fa73da887da23244f1</md5>
+    <crc32>84ce3706</crc32>
+    <sha1>d478d351ed17437e534efdd63e1f4347e2c2234a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_salisbury-h_xml.zip" source="original">
+    <mtime>1442502595</mtime>
+    <size>55283595</size>
+    <md5>3aae029d58f550233603e7d30528c9e0</md5>
+    <crc32>3cb442db</crc32>
+    <sha1>487b4c5ffe813c1425fabd2a63daeed3361bf7d2</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_sanchez-m_xml.zip" source="original">
+    <mtime>1442501965</mtime>
+    <size>22612418</size>
+    <md5>ba43cd2f1976444aa4613c55dfe7faaa</md5>
+    <crc32>74422fa4</crc32>
+    <sha1>cf76153b68158d194d7760c2d033c5efe5df81c0</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_sanders-r_xml.zip" source="original">
+    <mtime>1442502542</mtime>
+    <size>750675367</size>
+    <md5>839d137ba35eaf0aa850604f81a2d655</md5>
+    <crc32>25d4792d</crc32>
+    <sha1>596054655e79b5c19825944a2335150d5896e33c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_scholtes-d_xml.zip" source="original">
+    <mtime>1442501851</mtime>
+    <size>64865879</size>
+    <md5>b75d04d4928225122c9d66507d81d58c</md5>
+    <crc32>0138e937</crc32>
+    <sha1>512d44722ed5fc8f7808517550ea4f6710d6ac4b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_schoolcraft-d_xml.zip" source="original">
+    <mtime>1442502549</mtime>
+    <size>150633409</size>
+    <md5>194a741c987f0e3981534ff31931fc4c</md5>
+    <crc32>97f7630f</crc32>
+    <sha1>3d21fb907ed7a92f165e19701668b21fc157a4f3</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_schwieger-j_xml.zip" source="original">
+    <mtime>1442502480</mtime>
+    <size>83298000</size>
+    <md5>7f162d98d1e1e812b65b378335ddae0a</md5>
+    <crc32>39f880df</crc32>
+    <sha1>2f9a51e6aa14f170f2794a849df027d6c9d5c3e6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_scott-s_xml.zip" source="original">
+    <mtime>1442502530</mtime>
+    <size>944450358</size>
+    <md5>a25aee1c5e362831419d36a3ec3b6838</md5>
+    <crc32>5c608c56</crc32>
+    <sha1>b4ba81398be932cb4a088fa7cbc7f2067ca2a54e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_semperger-c_xml.zip" source="original">
+    <mtime>1442502147</mtime>
+    <size>50087473</size>
+    <md5>af9398993125c34a5fe01482fa5643d2</md5>
+    <crc32>815c59dd</crc32>
+    <sha1>9b19d6d3af3c7daacf9f93b4746dcd49bc6faa1b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_shackleton-s_xml.zip" source="original">
+    <mtime>1442502603</mtime>
+    <size>1054290819</size>
+    <md5>14348735cb329c9323cf021f223a97ff</md5>
+    <crc32>aab9998a</crc32>
+    <sha1>ba611242670a6fa06e7e79fa94550823f1225aa9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_shankman-j_xml.zip" source="original">
+    <mtime>1442502578</mtime>
+    <size>385093858</size>
+    <md5>a7199eabf2c282599d0cbbaaecc6463c</md5>
+    <crc32>c8e81479</crc32>
+    <sha1>d5304563f7673d935da2258ca4336ae9af93b968</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_shapiro-r_xml.zip" source="original">
+    <mtime>1442502591</mtime>
+    <size>850319663</size>
+    <md5>0041029dca26ce97a646e9ef40ce98b7</md5>
+    <crc32>e34aff9c</crc32>
+    <sha1>0140cbcbca97d6a94eee20cb12309df3454700e4</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_shively-h_xml.zip" source="original">
+    <mtime>1442502551</mtime>
+    <size>255785148</size>
+    <md5>890a20ead9132bf0777017bab947308d</md5>
+    <crc32>14a2e550</crc32>
+    <sha1>bc810f22cd4bdb4a4b4236706fe62aa915b158c6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_skilling-j_xml.zip" source="original">
+    <mtime>1442502571</mtime>
+    <size>1358268860</size>
+    <md5>87bbdd2ba7c25402e7837b89ec74bb3f</md5>
+    <crc32>d774f213</crc32>
+    <sha1>9b8c2e3f5045a792a6f2984ac23266784ba92c49</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_slinger-r_xml.zip" source="original">
+    <mtime>1442501514</mtime>
+    <size>9190142</size>
+    <md5>f85153db95f0aa9f27fc7680f38a3dbb</md5>
+    <crc32>a709ac8c</crc32>
+    <sha1>9d7810fe559f916c2734911a01bb7d36bfa3722a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_smith-m_xml.zip" source="original">
+    <mtime>1442502287</mtime>
+    <size>127849156</size>
+    <md5>ceeab3472325755acd552a0a62fa3e0e</md5>
+    <crc32>1111701e</crc32>
+    <sha1>fd4efdd995a0d671555787ad9d9642d36f69c5dc</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_solberg-g_xml.zip" source="original">
+    <mtime>1442501061</mtime>
+    <size>41681975</size>
+    <md5>e086100633d51f45b253a4e6f1981d2a</md5>
+    <crc32>8865be49</crc32>
+    <sha1>5fde73867c7c796c26c7f25ca1e4ce4ef36514dc</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_south-s_xml.zip" source="original">
+    <mtime>1442498842</mtime>
+    <size>5927358</size>
+    <md5>0da35ad86e6a0ff12ceef24c9ee8d3c5</md5>
+    <crc32>ecdf9a58</crc32>
+    <sha1>62ae743c51aca41c030f65ad72f18ffdb608934c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_staab-t_xml.zip" source="original">
+    <mtime>1442502337</mtime>
+    <size>46637755</size>
+    <md5>d56803780a4b65859b1bd8e6b341b981</md5>
+    <crc32>6f1f2205</crc32>
+    <sha1>0b530945d1a1618ffd80aa8f7e9afe7170b8547e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_stclair-c_xml.zip" source="original">
+    <mtime>1442502380</mtime>
+    <size>80456559</size>
+    <md5>01794510845bd00d1bc5d6a2eb4c31f4</md5>
+    <crc32>91f10cc7</crc32>
+    <sha1>3f560c5ae8ac17283d9d116977904c7822b99a48</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_steffes-j_xml.zip" source="original">
+    <mtime>1442502082</mtime>
+    <size>171153858</size>
+    <md5>0429a2f5bf37ee67e94c0967a73cf881</md5>
+    <crc32>616c0463</crc32>
+    <sha1>e4c528a99e8e6800c6f97c353adb09599bee658f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_stepenovitch-j_xml.zip" source="original">
+    <mtime>1442501650</mtime>
+    <size>50546493</size>
+    <md5>79762a6c9955d4e6a55a804caa795eab</md5>
+    <crc32>7a2193ce</crc32>
+    <sha1>f5b50d41a93721a176d8172b617baf0f960217c5</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_stokley-c_xml.zip" source="original">
+    <mtime>1442502593</mtime>
+    <size>116550201</size>
+    <md5>1a00180006e0362744a01458f1814157</md5>
+    <crc32>0563e911</crc32>
+    <sha1>c9f4e5c505692b37ee6b27c6dbf9696013a94ae1</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_storey-g_xml.zip" source="original">
+    <mtime>1442502570</mtime>
+    <size>91549630</size>
+    <md5>bb295101b698939b40d3f0b14aacd52f</md5>
+    <crc32>dfef8ee3</crc32>
+    <sha1>a8b49319f91878347ace54b2dc29797e722623c7</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_sturm-f_xml.zip" source="original">
+    <mtime>1442502469</mtime>
+    <size>56717182</size>
+    <md5>de61b8f500654aef0e596cb70eae2c3c</md5>
+    <crc32>15ac9c48</crc32>
+    <sha1>24fb15913e817e16418716a56465ec862e489c12</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_swerzbin-m_xml.zip" source="original">
+    <mtime>1442502541</mtime>
+    <size>147420408</size>
+    <md5>7d9b7f04a20f7d08cba684b3adc104f1</md5>
+    <crc32>4d11e2e4</crc32>
+    <sha1>0fe3038c3f20041a9a8e4bb14969bd1a885b87be</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_symes-k_xml.zip" source="original">
+    <mtime>1442502605</mtime>
+    <size>758441496</size>
+    <md5>bce329d39ec3b0f37502ed6b6d495a60</md5>
+    <crc32>6d1396c5</crc32>
+    <sha1>2d50aa283d0eadeb3ee50007af661611a143c4dc</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_taylor-m_xml.zip" source="original">
+    <mtime>1442502605</mtime>
+    <size>1326426309</size>
+    <md5>0d73626d71e0d3dbbf75a6ea45f97bd7</md5>
+    <crc32>b121582e</crc32>
+    <sha1>7f95cc4991666afdc8080eb9658c3ae9eff356b4</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_tholt-j_xml.zip" source="original">
+    <mtime>1442502555</mtime>
+    <size>195739043</size>
+    <md5>be1b98e29cd487f205f6272d6b79f277</md5>
+    <crc32>9754efd1</crc32>
+    <sha1>788c0bb0a19b2f59cee8f5aed73f672561b987c9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_thomas-p_xml.zip" source="original">
+    <mtime>1442502354</mtime>
+    <size>115144311</size>
+    <md5>1614723d251b9cfd1d02a0a72cabbf4a</md5>
+    <crc32>faf429fb</crc32>
+    <sha1>341ddbd88eaf43a51301c48138cf97242a450527</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_townsend-j_xml.zip" source="original">
+    <mtime>1442502536</mtime>
+    <size>25621445</size>
+    <md5>9f0dc46f9e4d38486f9c9fd575797ddb</md5>
+    <crc32>ce5d07c1</crc32>
+    <sha1>8970cd9a199499c56104812ddd3b24393801e326</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_tycholiz-b_xml.zip" source="original">
+    <mtime>1442502394</mtime>
+    <size>98392927</size>
+    <md5>325b1e093eaa50c7b6552c8f3ed8d36b</md5>
+    <crc32>1b439f9b</crc32>
+    <sha1>4f986139ce7141b004086afc07ffc29ae121ed38</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_ward-k_xml.zip" source="original">
+    <mtime>1442502578</mtime>
+    <size>178544504</size>
+    <md5>9802eb4c3226934f9adc8ada9d479ce8</md5>
+    <crc32>d5bce71d</crc32>
+    <sha1>23e6474ef7856843acc1cd627c6c3fca52ac62fa</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_watson-k_xml.zip" source="original">
+    <mtime>1442502376</mtime>
+    <size>128525372</size>
+    <md5>5f5c87aa6a8c8984227442dedd541bb7</md5>
+    <crc32>5d5d8dda</crc32>
+    <sha1>bf4e6144576d1b9e54d330e3b67bdb805a2bf3ac</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_weldon-c_xml.zip" source="original">
+    <mtime>1442502399</mtime>
+    <size>83224374</size>
+    <md5>52c0684c5512d9c49a9e2b35a982aa5a</md5>
+    <crc32>0dce2f95</crc32>
+    <sha1>618c92c76c4b3198553847fd40d0e7896f3f8c8d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_whalley-g_xml.zip" source="original">
+    <mtime>1442502605</mtime>
+    <size>1258017528</size>
+    <md5>83bd9c7da6f4caae6b4cb50eb11aeeb0</md5>
+    <crc32>76d05511</crc32>
+    <sha1>f9cac44ce70c6a086051504e6f88c232258b5143</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_white-s_xml.zip" source="original">
+    <mtime>1442502593</mtime>
+    <size>222224912</size>
+    <md5>aadc8bda896938ae7b390f494ebb99b7</md5>
+    <crc32>940940cf</crc32>
+    <sha1>c5a51b7d00b0b2cbc3abe15deaf43ea6ecfaf76f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_whitt-m_xml.zip" source="original">
+    <mtime>1442502495</mtime>
+    <size>73392849</size>
+    <md5>f2fc5d27c88970b7c3911232ef1cb07e</md5>
+    <crc32>f04931c1</crc32>
+    <sha1>2fa1556caba3430cf392d8e09e0e0436f77fea12</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_williams-b_xml.zip" source="original">
+    <mtime>1442502326</mtime>
+    <size>109276010</size>
+    <md5>cb32da5ffc22788cdeadbf41e1887437</md5>
+    <crc32>77c83607</crc32>
+    <sha1>b5898286c7bb484d2fb3c5410889f77e5f57147a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_williams-j_xml.zip" source="original">
+    <mtime>1442502480</mtime>
+    <size>102706339</size>
+    <md5>8b2f4ece87276b931509b29db6d12371</md5>
+    <crc32>58af3ef3</crc32>
+    <sha1>6d84564e0b2954be6c99150bbc48edf234407ae0</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_wolfe-j_xml.zip" source="original">
+    <mtime>1442502549</mtime>
+    <size>176287914</size>
+    <md5>f864c3763206efba706c93149bf0ccbf</md5>
+    <crc32>3cfa1b29</crc32>
+    <sha1>12d014e2d394b34c1e9eea1d85e5e3934b2a7f81</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_ybarbo-p_xml.zip" source="original">
+    <mtime>1442502523</mtime>
+    <size>182089487</size>
+    <md5>d1184f9362efaa86120b704d2383242b</md5>
+    <crc32>2cb9c17d</crc32>
+    <sha1>08de2a5b07ae8ee30c5476e0ccc679f41253dd12</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_zipper-a_xml.zip" source="original">
+    <mtime>1442502527</mtime>
+    <size>252927942</size>
+    <md5>ea1e154d44c7b0c2c75a0ff6eb2c7eff</md5>
+    <crc32>6c7dd629</crc32>
+    <sha1>74c3dc3d18ce6207507c68838e8ca628cd9269bb</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm-enron-v2_zufferli-j_xml.zip" source="original">
+    <mtime>1442502211</mtime>
+    <size>83074905</size>
+    <md5>64f67594233fcfbbb3e87b22476ada21</md5>
+    <crc32>8b6a6da9</crc32>
+    <sha1>0ff0962dae55731153bfcfecc1dd20e95fab45b6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="edrm.enron.email.data.set.v2.xml.torrent" source="original">
+    <mtime>1442495981</mtime>
+    <size>388096</size>
+    <md5>898f6e99700df59f510c406775f4ae51</md5>
+    <crc32>64714be0</crc32>
+    <sha1>12ff54a83237d3edc80319e329482930cbfb8810</sha1>
+    <format>BitTorrent</format>
+  </file>
+  <file name="edrm.enron.email.data.set.v2.xml_archive.torrent" source="metadata">
+    <btih>20d8fc635a92699a9d210016978126ddcca2afaf</btih>
+    <mtime>1482938074</mtime>
+    <size>420731</size>
+    <md5>bd545be583022155096524a870f168e5</md5>
+    <crc32>6cb84eb2</crc32>
+    <sha1>3faec632d8ac48424ba38b803a14180cffc503b4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="edrm.enron.email.data.set.v2.xml_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6a074524bc1c7f43b9a9db8b304252e0</md5>
+  </file>
+  <file name="edrm.enron.email.data.set.v2.xml_meta.sqlite" source="original">
+    <mtime>1442495995</mtime>
+    <size>9216</size>
+    <md5>3ac0d43e4c0b50cfd981181331f29678</md5>
+    <crc32>d9f9e968</crc32>
+    <sha1>9fd3352efc0389e9733c087cd5863cf39eccd80c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="edrm.enron.email.data.set.v2.xml_meta.xml" source="original">
+    <mtime>1482936652</mtime>
+    <size>1165</size>
+    <format>Metadata</format>
+    <md5>3797f35059f9d0b63a9a9e3b2d2ff756</md5>
+    <crc32>d81af70b</crc32>
+    <sha1>096274f69d6312bf57fc842337ce5b5c8e8dbe70</sha1>
+  </file>
+  <file name="edrm.enron.email.data.set.v2.xml_torrent.txt" source="derivative">
+    <format>BitTorrentContents</format>
+    <original>edrm.enron.email.data.set.v2.xml.torrent</original>
+    <mtime>1442502661</mtime>
+    <size>11600</size>
+    <md5>9e04f2b9a6ef8de9014b69bd4989c5f8</md5>
+    <crc32>ad141f75</crc32>
+    <sha1>56d300c9473f776c07986216b7ae37405688824e</sha1>
+  </file>
+</files>

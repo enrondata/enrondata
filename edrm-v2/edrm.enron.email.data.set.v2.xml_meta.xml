@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>edrm.enron.email.data.set.v2.xml</identifier>
+  <mediatype>texts</mediatype>
+  <collection>opensource_media</collection>
+  <creator>Enron</creator>
+  <date>2011-03-11</date>
+  <description>73.66gb dump of the Enron email data set. &lt;br /&gt;</description>
+  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
+  <subject>Email</subject>
+  <title>EDRM Enron Email Data Set v2 XML</title>
+  <subject>scandal</subject>
+  <subject>data</subject>
+  <subject>set</subject>
+  <publicdate>2015-09-17 13:19:42</publicdate>
+  <uploader>baysideshippers@gmail.com</uploader>
+  <addeddate>2015-09-17 13:19:42</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20150917132002[/date][comment]checked for malware[/comment]</curation>
+  <language>English</language>
+  <identifier-access>http://archive.org/details/edrm.enron.email.data.set.v2.xml</identifier-access>
+  <identifier-ark>ark:/13960/t2991w087</identifier-ark>
+  <source>torrent:urn:sha1:438dc1dfc18b8fe08245766eb63128ee5f523bba</source>
+  <repub_state>4</repub_state>
+  <backup_location>ia905501_27</backup_location>
+</metadata>
