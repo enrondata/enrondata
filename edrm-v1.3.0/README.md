@@ -11,8 +11,8 @@ Date: 2013-07-29
 The Enron Data Set - EDRM v1.3.0 is a data set based on the following:
 
 * FERC to [CALO](https://www.cs.cmu.edu/~./enron/)
-* CALO MIME to PST via [Email::PST::Win32](https://metacpan.org/pod/Email::PST::Win32)
-* PST filtered for PII via Nuix
+* CALO MIME to EDRM v1.0 PST via ZL Unified Archive
+* EDRM v1.0 PST to EDRM v1.3 PST via PII fitlering via Nuix
 
 Of note, it would be useful to update EDRM to sync with CALO.
 
