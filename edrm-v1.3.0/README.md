@@ -9,7 +9,7 @@ Date: 2013-07-29
 
 ## Metadata
 
-* Custodians: 130 (less than 148 custodians in CALO)
+* Custodians: 130 (vs. 148 custodians in CALO)
 
 ## Lineage
 
