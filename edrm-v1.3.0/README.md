@@ -5,7 +5,7 @@ Date: 2013-07-29
 ## Overview
 
 * The EDRM v1.x Data Set is based on the CMU CALO Data Set with conversion to PST and filtered for PII
-* It is primarily used by the eDiscovery field where PST format is important
+* It is primarily used by the eDiscovery field where PST format is desirable
 
 ## Metadata
 
@@ -23,3 +23,7 @@ Of note, it would be useful to update EDRM to sync with CALO.
 
 * the latest version of CALO is 2015-05-07
 * the latest version fo EDRM v1.x is 2013-07-29
+
+## Related
+
+This is a follow on to the EnronData.org (EDO) PST files.
