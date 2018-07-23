@@ -24,6 +24,10 @@ Of note, it would be useful to update EDRM to sync with CALO.
 * the latest version of CALO is 2015-05-07
 * the latest version fo EDRM v1.x is 2013-07-29 for v1.3
 
+## Discussion
+
+* http://archive.edrm.net/resources/data-sets/edrm-enron-email-data-set
+
 ## Related
 
 This is a follow on to the EnronData.org (EDO) PST files.
