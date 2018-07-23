@@ -24,3 +24,9 @@ The Enron Data Set - EDRM v1.3.0 is a data set based on the following:
 ## Discussion
 
 * http://archive.edrm.net/resources/data-sets/edrm-enron-email-data-set
+
+## Archives
+
+* http://www.searchdaimon.com/community/dataset/ (MIME/EML,PST, and EDRM XML)
+* https://archive.org/details/edrm.enron.email.data.set.v2.xml
+* https://aws.amazon.com/datasets/enron-email-data/
