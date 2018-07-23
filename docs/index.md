@@ -2,7 +2,7 @@
 
 ## Endless Possibilities.
 
-EnronData.org extends the *endless possibilities* of the publically released Enron data for research and development through data analysis and reconstruction, specifically, the data released by the [Federal Energy Regulatory Commission (FERC)](http://www.ferc.gov/).
+EnronData.org extends the *endless possibilities* of the publicly released Enron data for research and development through data analysis and reconstruction, specifically, the data released by the [Federal Energy Regulatory Commission (FERC)](http://www.ferc.gov/).
 
 ## EnronData.org Email Datasets
 
