@@ -2,10 +2,17 @@
 
 Date: 2013-07-29
 
+## Metadata
+
+* Custodians: 130 (less than 148 custodians in CALO)
+
+## Lineage
+
 The Enron Data Set - EDRM v1.3.0 is a data set based on the following:
 
-* Conversion of [CALO data set](https://www.cs.cmu.edu/~./enron/) to PST using [Email::PST::Win32](https://metacpan.org/pod/Email::PST::Win32)
-* Filtered for PII by Nuix
+* FERC to [CALO](https://www.cs.cmu.edu/~./enron/)
+* CALO MIME to PST via [Email::PST::Win32](https://metacpan.org/pod/Email::PST::Win32)
+* PST filtered for PII via Nuix
 
 Of note, it would be useful to update EDRM to sync with CALO.
 
