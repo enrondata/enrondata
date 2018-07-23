@@ -7,7 +7,7 @@ pages:
 
 # Introduction:
 - ['index.md', 'Introduction', 'Home']
-- ['introduction.md', 'Introduction', 'Introduciton']
+- ['introduction.md', 'Introduction', 'Introduction']
 
 ## Data:
 - ['data/enron-email-datasets.md', 'Data', 'Enron Email Datasets']
