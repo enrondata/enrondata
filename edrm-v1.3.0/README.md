@@ -22,7 +22,7 @@ The Enron Data Set - EDRM v1.3.0 is a data set based on the following:
 Of note, it would be useful to update EDRM to sync with CALO.
 
 * the latest version of CALO is 2015-05-07
-* the latest version fo EDRM v1.x is 2013-07-29
+* the latest version fo EDRM v1.x is 2013-07-29 for v1.3
 
 ## Related
 
