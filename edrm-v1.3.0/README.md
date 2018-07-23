@@ -2,6 +2,11 @@
 
 Date: 2013-07-29
 
+## Overview
+
+* The EDRM v1.x Data Set is based on the CMU CALO Data Set with conversion to PST and filtered for PII
+* It is primarily used by the eDiscovery field where PST format is important
+
 ## Metadata
 
 * Custodians: 130 (less than 148 custodians in CALO)
