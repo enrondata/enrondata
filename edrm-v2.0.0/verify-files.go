@@ -61,6 +61,7 @@ func verifyFiles(files Files, dir string) FileStatuses {
 		if err != nil {
 			if strings.Index(err.Error(), "no such file or directory") > -1 {
 				fileStatuses.Missing = append(fileStatuses.Missing, f.Name)
+				continue
 			} else {
 				log.Fatal(err)
 			}
