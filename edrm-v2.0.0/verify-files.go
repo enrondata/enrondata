@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"path/filepath"
+	"regexp"
 	"strings"
 
 	"github.com/grokify/gotilla/crypto/sha1util"
@@ -77,6 +78,15 @@ func verifyFiles(files Files, dir string) FileStatuses {
 	return fileStatuses
 }
 
+func GetCustodianForFile(file string) string {
+	rx := regexp.MustCompile(`edrm-enron-v2_(.+)_xml.zip`)
+	rs := rx.FindStringSubmatch(file)
+	if len(rs) > 0 {
+		return rs[1]
+	}
+	return ""
+}
+
 func main() {
 	file := "edrm.enron.email.data.set.v2.xml_files.xml"
 	dir := "path/to/files"
@@ -87,14 +97,28 @@ func main() {
 	}
 	fmtutil.PrintJSON(files)
 
-	sha1, err := sha1util.HashFile(file)
-	if err != nil {
-		log.Fatal(err)
-	}
-	fmt.Println(string(sha1))
+	if 1 == 1 {
+		if 1 == 0 {
+			sha1, err := sha1util.HashFile(file)
+			if err != nil {
+				log.Fatal(err)
+			}
+			fmt.Println(string(sha1))
+		}
 
-	fileStatuses := verifyFiles(files, dir)
-	fmtutil.PrintJSON(fileStatuses)
+		fileStatuses := verifyFiles(files, dir)
+		fmtutil.PrintJSON(fileStatuses)
+	}
+	if 1 == 0 {
+		custs := map[string]int8{}
+		for _, f := range files.Files {
+			cust := GetCustodianForFile(f.Name)
+			if len(cust) > 0 {
+				custs[cust] = 1
+			}
+		}
+		fmt.Printf("NUM_CUSTODIANS: %v\n", len(custs))
+	}
 
 	fmt.Println("DONE")
 }
