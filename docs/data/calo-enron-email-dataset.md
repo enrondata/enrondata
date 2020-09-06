@@ -1,6 +1,6 @@
 # CALO Enron Email Dataset
 
-The [Carnegie Mello University (CMU)](http://www.cmu.edu/) [CALO Project](http://www.ai.sri.com/project/CALO) dataset is perhaps the most widely used data set and is available for download at [http://www.cs.cmu.edu/~enron/](http://www.cs.cmu.edu/~enron/). This dataset is a derivative of the FERC dataset and has been referenced in many email research studies and is also used by many commercial E-Discovery organizations. The CMU page describes this dataset as follows:
+The [Carnegie Mellon University (CMU)](http://www.cmu.edu/) [CALO Project](http://www.ai.sri.com/project/CALO) dataset is perhaps the most widely used dataset and is available for download at [http://www.cs.cmu.edu/~enron/](http://www.cs.cmu.edu/~enron/). This dataset is a derivative of the FERC dataset and has been referenced in many email research studies and is also used by many commercial E-Discovery organizations. The CMU page describes this dataset as follows:
 
 1. This dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes).
 2. It contains data from [150 custodians](https://github.com/enrondata/enrondata/blob/master/data/misc/edrp_calo-enron_maildir-users.txt), mostly senior management of Enron, organized into folders.
