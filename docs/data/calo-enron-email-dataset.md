@@ -1,12 +1,12 @@
 # CALO Enron Email Dataset
 
-The [Carnegie Mellon University (CMU)](http://www.cmu.edu/) [CALO Project](http://www.ai.sri.com/project/CALO) dataset is perhaps the most widely used dataset and is available for download at [http://www.cs.cmu.edu/~enron/](http://www.cs.cmu.edu/~enron/). This dataset is a derivative of the FERC dataset and has been referenced in many email research studies and is also used by many commercial E-Discovery organizations. The CMU page describes this dataset as follows:
+The [Carnegie Mellon University (CMU)](http://www.cmu.edu/) [CALO Project](https://archived.ai.sri.com/project/CALO.html) dataset is perhaps the most widely used dataset and is available for download at [http://www.cs.cmu.edu/~enron/](http://www.cs.cmu.edu/~enron/). This dataset is a derivative of the FERC dataset and has been referenced in many email research studies and is also used by many commercial E-Discovery organizations. The CMU page describes this dataset as follows:
 
 1. This dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes).
-2. It contains data from [150 custodians](https://github.com/enrondata/enrondata/blob/master/data/misc/edrp_calo-enron_maildir-users.txt), mostly senior management of Enron, organized into folders.
+2. It contains data from [150 custodians](https://github.com/enrondata/enrondata/blob/master/data/misc/edo_calo-enron_maildir-users.txt), mostly senior management of Enron, organized into folders.
 3. The corpus contains a total of about 0.5M messages.
 4. This data was originally made public, and posted to the web, by the Federal Energy Regulatory Commission during its investigation.
-5. The email dataset was later purchased by [Leslie Kaelbling](http://people.csail.mit.edu/lpk/) at MIT, and turned out to have a number of integrity problems. A number of folks at SRI, notably [Melinda Gervasio](http://www.ai.sri.com/people/gervasio), worked hard to correct these problems, and it is thanks to them (not me) that the dataset is available.
+5. The email dataset was later purchased by [Leslie Kaelbling](http://people.csail.mit.edu/lpk/) at MIT, and turned out to have a number of integrity problems. A number of folks at SRI, notably [Melinda Gervasio](https://www.sri.com/people/melinda-gervasio/), worked hard to correct these problems, and it is thanks to them (not me) that the dataset is available.
 6. The dataset here
   1. does not include attachments, and
   2. some messages have been deleted “as part of a redaction effort due to requests from affected employees”.

@@ -1,6 +1,6 @@
 # EDO Enron Email PST Dataset
 
-Although much of the original Enron Email came in PST files, the most common form to get this email in today is in [MIME format](https://www.cs.cmu.edu/~./enron/) from the CMU [CALO Project](http://www.ai.sri.com/project/CALO).
+Although much of the original Enron Email came in PST files, the most common form to get this email in today is in [MIME format](https://www.cs.cmu.edu/~enron/) from the CMU [CALO Project](https://archived.ai.sri.com/project/CALO.html).
 
 Previously, the CMU / CALO dataset was converted to PST format by Pete Warden [earlier PST conversion](https://petewarden.com/2008/03/25/how-to-conver-1/). Pete’s PST is similar to journal email in that per-user delineation and folder structure of the user email stores have been removed.
 
